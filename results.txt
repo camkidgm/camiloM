@@ -1,0 +1,2065 @@
+*********Before*********
+X[1]:real == 2935.000  imaginary ==  0.000
+X[2]:real == 5894.000  imaginary ==  0.000
+X[3]:real == 8799.000  imaginary ==  0.000
+X[4]:real == 11726.000  imaginary ==  0.000
+X[5]:real == 14660.000  imaginary ==  0.000
+X[6]:real == 17594.000  imaginary ==  0.000
+X[7]:real == 20534.000  imaginary ==  0.000
+X[8]:real == 23457.000  imaginary ==  0.000
+
+
+**********After*********
+X[0]:real ==  0.000  imaginary ==  0.000
+X[1]:real == 105599.000  imaginary ==  0.000
+X[2]:real == 105547.997  imaginary == -3022.449
+X[3]:real == 105395.059  imaginary == -6041.200
+X[4]:real == 105140.395  imaginary == -9052.561
+X[5]:real == 104784.355  imaginary == -12052.852
+X[6]:real == 104327.427  imaginary == -15038.407
+X[7]:real == 103770.238  imaginary == -18005.583
+X[8]:real == 103113.552  imaginary == -20950.765
+X[9]:real == 102358.269  imaginary == -23870.367
+X[10]:real == 101505.423  imaginary == -26760.846
+X[11]:real == 100556.183  imaginary == -29618.697
+X[12]:real == 99511.847  imaginary == -32440.465
+X[13]:real == 98373.845  imaginary == -35222.748
+X[14]:real == 97143.731  imaginary == -37962.202
+X[15]:real == 95823.186  imaginary == -40655.547
+X[16]:real == 94414.012  imaginary == -43299.569
+X[17]:real == 92918.131  imaginary == -45891.127
+X[18]:real == 91337.580  imaginary == -48427.156
+X[19]:real == 89674.512  imaginary == -50904.676
+X[20]:real == 87931.187  imaginary == -53320.788
+X[21]:real == 86109.972  imaginary == -55672.685
+X[22]:real == 84213.337  imaginary == -57957.656
+X[23]:real == 82243.853  imaginary == -60173.083
+X[24]:real == 80204.182  imaginary == -62316.454
+X[25]:real == 78097.081  imaginary == -64385.360
+X[26]:real == 75925.391  imaginary == -66377.500
+X[27]:real == 73692.036  imaginary == -68290.686
+X[28]:real == 71400.018  imaginary == -70122.844
+X[29]:real == 69052.413  imaginary == -71872.017
+X[30]:real == 66652.364  imaginary == -73536.369
+X[31]:real == 64203.079  imaginary == -75114.187
+X[32]:real == 61707.824  imaginary == -76603.883
+X[33]:real == 59169.920  imaginary == -78003.995
+X[34]:real == 56592.737  imaginary == -79313.190
+X[35]:real == 53979.687  imaginary == -80530.268
+X[36]:real == 51334.222  imaginary == -81654.158
+X[37]:real == 48659.826  imaginary == -82683.924
+X[38]:real == 45960.013  imaginary == -83618.765
+X[39]:real == 43238.319  imaginary == -84458.014
+X[40]:real == 40498.296  imaginary == -85201.142
+X[41]:real == 37743.509  imaginary == -85847.753
+X[42]:real == 34977.531  imaginary == -86397.590
+X[43]:real == 32203.936  imaginary == -86850.533
+X[44]:real == 29426.291  imaginary == -87206.597
+X[45]:real == 26648.158  imaginary == -87465.934
+X[46]:real == 23873.081  imaginary == -87628.829
+X[47]:real == 21104.587  imaginary == -87695.705
+X[48]:real == 18346.176  imaginary == -87667.115
+X[49]:real == 15601.318  imaginary == -87543.747
+X[50]:real == 12873.448  imaginary == -87326.417
+X[51]:real == 10165.961  imaginary == -87016.072
+X[52]:real == 7482.205  imaginary == -86613.784
+X[53]:real == 4825.480  imaginary == -86120.752
+X[54]:real == 2199.030  imaginary == -85538.298
+X[55]:real == -393.961  imaginary == -84867.861
+X[56]:real == -2950.373  imaginary == -84111.002
+X[57]:real == -5467.155  imaginary == -83269.394
+X[58]:real == -7941.328  imaginary == -82344.824
+X[59]:real == -10369.993  imaginary == -81339.185
+X[60]:real == -12750.328  imaginary == -80254.477
+X[61]:real == -15079.602  imaginary == -79092.804
+X[62]:real == -17355.167  imaginary == -77856.364
+X[63]:real == -19574.473  imaginary == -76547.454
+X[64]:real == -21735.063  imaginary == -75168.459
+X[65]:real == -23834.581  imaginary == -73721.853
+X[66]:real == -25870.773  imaginary == -72210.189
+X[67]:real == -27841.491  imaginary == -70636.101
+X[68]:real == -29744.696  imaginary == -69002.297
+X[69]:real == -31578.459  imaginary == -67311.555
+X[70]:real == -33340.966  imaginary == -65566.714
+X[71]:real == -35030.517  imaginary == -63770.679
+X[72]:real == -36645.532  imaginary == -61926.405
+X[73]:real == -38184.549  imaginary == -60036.902
+X[74]:real == -39646.228  imaginary == -58105.223
+X[75]:real == -41029.352  imaginary == -56134.463
+X[76]:real == -42332.827  imaginary == -54127.753
+X[77]:real == -43555.687  imaginary == -52088.255
+X[78]:real == -44697.088  imaginary == -50019.157
+X[79]:real == -45756.315  imaginary == -47923.666
+X[80]:real == -46732.781  imaginary == -45805.008
+X[81]:real == -47626.024  imaginary == -43666.416
+X[82]:real == -48435.711  imaginary == -41511.131
+X[83]:real == -49161.635  imaginary == -39342.395
+X[84]:real == -49803.718  imaginary == -37163.442
+X[85]:real == -50362.005  imaginary == -34977.501
+X[86]:real == -50836.669  imaginary == -32787.783
+X[87]:real == -51228.007  imaginary == -30597.481
+X[88]:real == -51536.438  imaginary == -28409.763
+X[89]:real == -51762.505  imaginary == -26227.769
+X[90]:real == -51906.869  imaginary == -24054.603
+X[91]:real == -51970.313  imaginary == -21893.333
+X[92]:real == -51953.733  imaginary == -19746.981
+X[93]:real == -51858.142  imaginary == -17618.524
+X[94]:real == -51684.664  imaginary == -15510.884
+X[95]:real == -51434.535  imaginary == -13426.929
+X[96]:real == -51109.095  imaginary == -11369.466
+X[97]:real == -50709.791  imaginary == -9341.235
+X[98]:real == -50238.170  imaginary == -7344.911
+X[99]:real == -49695.879  imaginary == -5383.093
+X[100]:real == -49084.658  imaginary == -3458.306
+X[101]:real == -48406.341  imaginary == -1572.994
+X[102]:real == -47662.850  imaginary == 270.480
+X[103]:real == -46856.189  imaginary == 2069.842
+X[104]:real == -45988.446  imaginary == 3822.905
+X[105]:real == -45061.785  imaginary == 5527.576
+X[106]:real == -44078.442  imaginary == 7181.858
+X[107]:real == -43040.723  imaginary == 8783.848
+X[108]:real == -41950.998  imaginary == 10331.747
+X[109]:real == -40811.699  imaginary == 11823.856
+X[110]:real == -39625.313  imaginary == 13258.582
+X[111]:real == -38394.378  imaginary == 14634.436
+X[112]:real == -37121.480  imaginary == 15950.040
+X[113]:real == -35809.248  imaginary == 17204.122
+X[114]:real == -34460.350  imaginary == 18395.524
+X[115]:real == -33077.485  imaginary == 19523.198
+X[116]:real == -31663.383  imaginary == 20586.209
+X[117]:real == -30220.799  imaginary == 21583.736
+X[118]:real == -28752.504  imaginary == 22515.072
+X[119]:real == -27261.287  imaginary == 23379.624
+X[120]:real == -25749.947  imaginary == 24176.914
+X[121]:real == -24221.286  imaginary == 24906.579
+X[122]:real == -22678.111  imaginary == 25568.369
+X[123]:real == -21123.220  imaginary == 26162.150
+X[124]:real == -19559.408  imaginary == 26687.899
+X[125]:real == -17989.452  imaginary == 27145.707
+X[126]:real == -16416.115  imaginary == 27535.776
+X[127]:real == -14842.137  imaginary == 27858.418
+X[128]:real == -13270.231  imaginary == 28114.056
+X[129]:real == -11703.080  imaginary == 28303.219
+X[130]:real == -10143.331  imaginary == 28426.541
+X[131]:real == -8593.594  imaginary == 28484.762
+X[132]:real == -7056.433  imaginary == 28478.722
+X[133]:real == -5534.368  imaginary == 28409.363
+X[134]:real == -4029.864  imaginary == 28277.723
+X[135]:real == -2545.334  imaginary == 28084.935
+X[136]:real == -1083.132  imaginary == 27832.225
+X[137]:real == 354.451  imaginary == 27520.908
+X[138]:real == 1765.188  imaginary == 27152.385
+X[139]:real == 3146.923  imaginary == 26728.143
+X[140]:real == 4497.569  imaginary == 26249.748
+X[141]:real == 5815.117  imaginary == 25718.842
+X[142]:real == 7097.633  imaginary == 25137.142
+X[143]:real == 8343.266  imaginary == 24506.436
+X[144]:real == 9550.247  imaginary == 23828.577
+X[145]:real == 10716.890  imaginary == 23105.481
+X[146]:real == 11841.601  imaginary == 22339.125
+X[147]:real == 12922.873  imaginary == 21531.540
+X[148]:real == 13959.291  imaginary == 20684.808
+X[149]:real == 14949.533  imaginary == 19801.059
+X[150]:real == 15892.374  imaginary == 18882.466
+X[151]:real == 16786.682  imaginary == 17931.242
+X[152]:real == 17631.426  imaginary == 16949.633
+X[153]:real == 18425.670  imaginary == 15939.919
+X[154]:real == 19168.580  imaginary == 14904.403
+X[155]:real == 19859.421  imaginary == 13845.414
+X[156]:real == 20497.559  imaginary == 12765.296
+X[157]:real == 21082.461  imaginary == 11666.409
+X[158]:real == 21613.694  imaginary == 10551.122
+X[159]:real == 22090.926  imaginary == 9421.809
+X[160]:real == 22513.929  imaginary == 8280.846
+X[161]:real == 22882.570  imaginary == 7130.605
+X[162]:real == 23196.820  imaginary == 5973.452
+X[163]:real == 23456.748  imaginary == 4811.741
+X[164]:real == 23662.520  imaginary == 3647.810
+X[165]:real == 23814.400  imaginary == 2483.978
+X[166]:real == 23912.749  imaginary == 1322.542
+X[167]:real == 23958.021  imaginary == 165.770
+X[168]:real == 23950.762  imaginary == -984.101
+X[169]:real == 23891.613  imaginary == -2124.868
+X[170]:real == 23781.299  imaginary == -3254.368
+X[171]:real == 23620.638  imaginary == -4370.478
+X[172]:real == 23410.528  imaginary == -5471.123
+X[173]:real == 23151.954  imaginary == -6554.275
+X[174]:real == 22845.980  imaginary == -7617.960
+X[175]:real == 22493.746  imaginary == -8660.258
+X[176]:real == 22096.471  imaginary == -9679.308
+X[177]:real == 21655.443  imaginary == -10673.310
+X[178]:real == 21172.021  imaginary == -11640.530
+X[179]:real == 20647.633  imaginary == -12579.298
+X[180]:real == 20083.765  imaginary == -13488.016
+X[181]:real == 19481.968  imaginary == -14365.155
+X[182]:real == 18843.848  imaginary == -15209.262
+X[183]:real == 18171.065  imaginary == -16018.959
+X[184]:real == 17465.329  imaginary == -16792.947
+X[185]:real == 16728.397  imaginary == -17530.006
+X[186]:real == 15962.067  imaginary == -18228.997
+X[187]:real == 15168.180  imaginary == -18888.864
+X[188]:real == 14348.609  imaginary == -19508.635
+X[189]:real == 13505.263  imaginary == -20087.425
+X[190]:real == 12640.074  imaginary == -20624.432
+X[191]:real == 11755.004  imaginary == -21118.945
+X[192]:real == 10852.032  imaginary == -21570.338
+X[193]:real == 9933.154  imaginary == -21978.073
+X[194]:real == 9000.381  imaginary == -22341.703
+X[195]:real == 8055.732  imaginary == -22660.867
+X[196]:real == 7101.230  imaginary == -22935.296
+X[197]:real == 6138.902  imaginary == -23164.806
+X[198]:real == 5170.771  imaginary == -23349.303
+X[199]:real == 4198.854  imaginary == -23488.781
+X[200]:real == 3225.160  imaginary == -23583.322
+X[201]:real == 2251.682  imaginary == -23633.092
+X[202]:real == 1280.398  imaginary == -23638.344
+X[203]:real == 313.263  imaginary == -23599.416
+X[204]:real == -647.789  imaginary == -23516.727
+X[205]:real == -1600.854  imaginary == -23390.780
+X[206]:real == -2544.058  imaginary == -23222.156
+X[207]:real == -3475.563  imaginary == -23011.516
+X[208]:real == -4393.566  imaginary == -22759.597
+X[209]:real == -5296.307  imaginary == -22467.211
+X[210]:real == -6182.068  imaginary == -22135.243
+X[211]:real == -7049.179  imaginary == -21764.647
+X[212]:real == -7896.018  imaginary == -21356.448
+X[213]:real == -8721.018  imaginary == -20911.734
+X[214]:real == -9522.663  imaginary == -20431.657
+X[215]:real == -10299.498  imaginary == -19917.430
+X[216]:real == -11050.126  imaginary == -19370.325
+X[217]:real == -11773.212  imaginary == -18791.667
+X[218]:real == -12467.485  imaginary == -18182.833
+X[219]:real == -13131.740  imaginary == -17545.252
+X[220]:real == -13764.841  imaginary == -16880.396
+X[221]:real == -14365.721  imaginary == -16189.782
+X[222]:real == -14933.384  imaginary == -15474.966
+X[223]:real == -15466.907  imaginary == -14737.540
+X[224]:real == -15965.440  imaginary == -13979.131
+X[225]:real == -16428.210  imaginary == -13201.393
+X[226]:real == -16854.519  imaginary == -12406.010
+X[227]:real == -17243.745  imaginary == -11594.688
+X[228]:real == -17595.345  imaginary == -10769.150
+X[229]:real == -17908.853  imaginary == -9931.139
+X[230]:real == -18183.883  imaginary == -9082.409
+X[231]:real == -18420.127  imaginary == -8224.723
+X[232]:real == -18617.356  imaginary == -7359.852
+X[233]:real == -18775.419  imaginary == -6489.566
+X[234]:real == -18894.244  imaginary == -5615.637
+X[235]:real == -18973.838  imaginary == -4739.830
+X[236]:real == -19014.286  imaginary == -3863.906
+X[237]:real == -19015.749  imaginary == -2989.611
+X[238]:real == -18978.464  imaginary == -2118.677
+X[239]:real == -18902.745  imaginary == -1252.821
+X[240]:real == -18788.979  imaginary == -393.736
+X[241]:real == -18637.627  imaginary == 456.907
+X[242]:real == -18449.221  imaginary == 1297.467
+X[243]:real == -18224.363  imaginary == 2126.329
+X[244]:real == -17963.725  imaginary == 2941.916
+X[245]:real == -17668.046  imaginary == 3742.684
+X[246]:real == -17338.129  imaginary == 4527.129
+X[247]:real == -16974.840  imaginary == 5293.787
+X[248]:real == -16579.108  imaginary == 6041.241
+X[249]:real == -16151.920  imaginary == 6768.118
+X[250]:real == -15694.318  imaginary == 7473.097
+X[251]:real == -15207.402  imaginary == 8154.905
+X[252]:real == -14692.322  imaginary == 8812.326
+X[253]:real == -14150.275  imaginary == 9444.197
+X[254]:real == -13582.509  imaginary == 10049.414
+X[255]:real == -12990.314  imaginary == 10626.932
+X[256]:real == -12375.021  imaginary == 11175.768
+X[257]:real == -11738.000  imaginary == 11695.000
+X[258]:real == -11080.656  imaginary == 12183.772
+X[259]:real == -10404.427  imaginary == 12641.294
+X[260]:real == -9710.781  imaginary == 13066.840
+X[261]:real == -9001.212  imaginary == 13459.755
+X[262]:real == -8277.237  imaginary == 13819.450
+X[263]:real == -7540.395  imaginary == 14145.407
+X[264]:real == -6792.240  imaginary == 14437.178
+X[265]:real == -6034.342  imaginary == 14694.387
+X[266]:real == -5268.282  imaginary == 14916.726
+X[267]:real == -4495.647  imaginary == 15103.960
+X[268]:real == -3718.029  imaginary == 15255.927
+X[269]:real == -2937.024  imaginary == 15372.533
+X[270]:real == -2154.223  imaginary == 15453.757
+X[271]:real == -1371.213  imaginary == 15499.649
+X[272]:real == -589.576  imaginary == 15510.329
+X[273]:real == 189.121  imaginary == 15485.987
+X[274]:real == 963.324  imaginary == 15426.881
+X[275]:real == 1731.494  imaginary == 15333.338
+X[276]:real == 2492.114  imaginary == 15205.753
+X[277]:real == 3243.690  imaginary == 15044.585
+X[278]:real == 3984.751  imaginary == 14850.361
+X[279]:real == 4713.859  imaginary == 14623.667
+X[280]:real == 5429.603  imaginary == 14365.156
+X[281]:real == 6130.608  imaginary == 14075.538
+X[282]:real == 6815.535  imaginary == 13755.583
+X[283]:real == 7483.084  imaginary == 13406.117
+X[284]:real == 8131.996  imaginary == 13028.024
+X[285]:real == 8761.056  imaginary == 12622.236
+X[286]:real == 9369.093  imaginary == 12189.741
+X[287]:real == 9954.987  imaginary == 11731.572
+X[288]:real == 10517.664  imaginary == 11248.812
+X[289]:real == 11056.106  imaginary == 10742.584
+X[290]:real == 11569.345  imaginary == 10214.055
+X[291]:real == 12056.470  imaginary == 9664.433
+X[292]:real == 12516.627  imaginary == 9094.959
+X[293]:real == 12949.018  imaginary == 8506.909
+X[294]:real == 13352.908  imaginary == 7901.593
+X[295]:real == 13727.619  imaginary == 7280.346
+X[296]:real == 14072.538  imaginary == 6644.530
+X[297]:real == 14387.113  imaginary == 5995.530
+X[298]:real == 14670.855  imaginary == 5334.753
+X[299]:real == 14923.341  imaginary == 4663.620
+X[300]:real == 15144.212  imaginary == 3983.569
+X[301]:real == 15333.173  imaginary == 3296.047
+X[302]:real == 15489.998  imaginary == 2602.511
+X[303]:real == 15614.523  imaginary == 1904.424
+X[304]:real == 15706.651  imaginary == 1203.251
+X[305]:real == 15766.352  imaginary == 500.456
+X[306]:real == 15793.661  imaginary == -202.499
+X[307]:real == 15788.676  imaginary == -904.160
+X[308]:real == 15751.562  imaginary == -1603.079
+X[309]:real == 15682.547  imaginary == -2297.823
+X[310]:real == 15581.924  imaginary == -2986.971
+X[311]:real == 15450.046  imaginary == -3669.121
+X[312]:real == 15287.329  imaginary == -4342.891
+X[313]:real == 15094.250  imaginary == -5006.921
+X[314]:real == 14871.343  imaginary == -5659.878
+X[315]:real == 14619.204  imaginary == -6300.455
+X[316]:real == 14338.482  imaginary == -6927.376
+X[317]:real == 14029.882  imaginary == -7539.400
+X[318]:real == 13694.163  imaginary == -8135.319
+X[319]:real == 13332.135  imaginary == -8713.963
+X[320]:real == 12944.658  imaginary == -9274.201
+X[321]:real == 12532.642  imaginary == -9814.947
+X[322]:real == 12097.040  imaginary == -10335.154
+X[323]:real == 11638.850  imaginary == -10833.825
+X[324]:real == 11159.113  imaginary == -11310.009
+X[325]:real == 10658.907  imaginary == -11762.804
+X[326]:real == 10139.350  imaginary == -12191.359
+X[327]:real == 9601.593  imaginary == -12594.875
+X[328]:real == 9046.820  imaginary == -12972.609
+X[329]:real == 8476.244  imaginary == -13323.871
+X[330]:real == 7891.108  imaginary == -13648.029
+X[331]:real == 7292.676  imaginary == -13944.505
+X[332]:real == 6682.238  imaginary == -14212.784
+X[333]:real == 6061.100  imaginary == -14452.407
+X[334]:real == 5430.588  imaginary == -14662.976
+X[335]:real == 4792.040  imaginary == -14844.153
+X[336]:real == 4146.806  imaginary == -14995.662
+X[337]:real == 3496.244  imaginary == -15117.287
+X[338]:real == 2841.720  imaginary == -15208.873
+X[339]:real == 2184.600  imaginary == -15270.329
+X[340]:real == 1526.253  imaginary == -15301.624
+X[341]:real == 868.045  imaginary == -15302.787
+X[342]:real == 211.336  imaginary == -15273.912
+X[343]:real == -442.522  imaginary == -15215.149
+X[344]:real == -1092.185  imaginary == -15126.713
+X[345]:real == -1736.325  imaginary == -15008.875
+X[346]:real == -2373.629  imaginary == -14861.966
+X[347]:real == -3002.802  imaginary == -14686.376
+X[348]:real == -3622.570  imaginary == -14482.552
+X[349]:real == -4231.682  imaginary == -14250.995
+X[350]:real == -4828.914  imaginary == -13992.262
+X[351]:real == -5413.070  imaginary == -13706.965
+X[352]:real == -5982.982  imaginary == -13395.765
+X[353]:real == -6537.519  imaginary == -13059.377
+X[354]:real == -7075.582  imaginary == -12698.562
+X[355]:real == -7596.111  imaginary == -12314.130
+X[356]:real == -8098.082  imaginary == -11906.937
+X[357]:real == -8580.516  imaginary == -11477.881
+X[358]:real == -9042.475  imaginary == -11027.903
+X[359]:real == -9483.064  imaginary == -10557.984
+X[360]:real == -9901.437  imaginary == -10069.141
+X[361]:real == -10296.795  imaginary == -9562.428
+X[362]:real == -10668.388  imaginary == -9038.932
+X[363]:real == -11015.517  imaginary == -8499.771
+X[364]:real == -11337.535  imaginary == -7946.090
+X[365]:real == -11633.847  imaginary == -7379.064
+X[366]:real == -11903.914  imaginary == -6799.888
+X[367]:real == -12147.252  imaginary == -6209.780
+X[368]:real == -12363.431  imaginary == -5609.977
+X[369]:real == -12552.079  imaginary == -5001.732
+X[370]:real == -12712.882  imaginary == -4386.311
+X[371]:real == -12845.583  imaginary == -3764.991
+X[372]:real == -12949.981  imaginary == -3139.060
+X[373]:real == -13025.938  imaginary == -2509.809
+X[374]:real == -13073.369  imaginary == -1878.533
+X[375]:real == -13092.253  imaginary == -1246.529
+X[376]:real == -13082.622  imaginary == -615.090
+X[377]:real == -13044.570  imaginary == 14.494
+X[378]:real == -12978.247  imaginary == 640.942
+X[379]:real == -12883.861  imaginary == 1262.980
+X[380]:real == -12761.676  imaginary == 1879.348
+X[381]:real == -12612.014  imaginary == 2488.802
+X[382]:real == -12435.251  imaginary == 3090.113
+X[383]:real == -12231.816  imaginary == 3682.073
+X[384]:real == -12002.194  imaginary == 4263.496
+X[385]:real == -11746.920  imaginary == 4833.219
+X[386]:real == -11466.583  imaginary == 5390.108
+X[387]:real == -11161.819  imaginary == 5933.058
+X[388]:real == -10833.313  imaginary == 6460.993
+X[389]:real == -10481.798  imaginary == 6972.871
+X[390]:real == -10108.052  imaginary == 7467.686
+X[391]:real == -9712.895  imaginary == 7944.470
+X[392]:real == -9297.192  imaginary == 8402.291
+X[393]:real == -8861.844  imaginary == 8840.262
+X[394]:real == -8407.792  imaginary == 9257.536
+X[395]:real == -7936.016  imaginary == 9653.309
+X[396]:real == -7447.524  imaginary == 10026.827
+X[397]:real == -6943.362  imaginary == 10377.379
+X[398]:real == -6424.601  imaginary == 10704.304
+X[399]:real == -5892.343  imaginary == 11006.992
+X[400]:real == -5347.712  imaginary == 11284.882
+X[401]:real == -4791.859  imaginary == 11537.466
+X[402]:real == -4225.951  imaginary == 11764.288
+X[403]:real == -3651.176  imaginary == 11964.947
+X[404]:real == -3068.737  imaginary == 12139.094
+X[405]:real == -2479.850  imaginary == 12286.438
+X[406]:real == -1885.742  imaginary == 12406.741
+X[407]:real == -1287.648  imaginary == 12499.821
+X[408]:real == -686.809  imaginary == 12565.553
+X[409]:real == -84.468  imaginary == 12603.868
+X[410]:real == 518.130  imaginary == 12614.753
+X[411]:real == 1119.742  imaginary == 12598.251
+X[412]:real == 1719.131  imaginary == 12554.461
+X[413]:real == 2315.064  imaginary == 12483.538
+X[414]:real == 2906.320  imaginary == 12385.691
+X[415]:real == 3491.689  imaginary == 12261.185
+X[416]:real == 4069.975  imaginary == 12110.339
+X[417]:real == 4639.998  imaginary == 11933.524
+X[418]:real == 5200.599  imaginary == 11731.166
+X[419]:real == 5750.640  imaginary == 11503.739
+X[420]:real == 6289.004  imaginary == 11251.771
+X[421]:real == 6814.602  imaginary == 10975.836
+X[422]:real == 7326.374  imaginary == 10676.559
+X[423]:real == 7823.287  imaginary == 10354.611
+X[424]:real == 8304.344  imaginary == 10010.705
+X[425]:real == 8768.579  imaginary == 9645.603
+X[426]:real == 9215.063  imaginary == 9260.105
+X[427]:real == 9642.905  imaginary == 8855.054
+X[428]:real == 10051.255  imaginary == 8431.330
+X[429]:real == 10439.301  imaginary == 7989.850
+X[430]:real == 10806.276  imaginary == 7531.567
+X[431]:real == 11151.459  imaginary == 7057.466
+X[432]:real == 11474.170  imaginary == 6568.563
+X[433]:real == 11773.781  imaginary == 6065.903
+X[434]:real == 12049.709  imaginary == 5550.558
+X[435]:real == 12301.422  imaginary == 5023.623
+X[436]:real == 12528.437  imaginary == 4486.215
+X[437]:real == 12730.325  imaginary == 3939.474
+X[438]:real == 12906.705  imaginary == 3384.553
+X[439]:real == 13057.252  imaginary == 2822.624
+X[440]:real == 13181.694  imaginary == 2254.869
+X[441]:real == 13279.811  imaginary == 1682.482
+X[442]:real == 13351.440  imaginary == 1106.663
+X[443]:real == 13396.469  imaginary == 528.620
+X[444]:real == 13414.844  imaginary == -50.438
+X[445]:real == 13406.564  imaginary == -629.301
+X[446]:real == 13371.682  imaginary == -1206.762
+X[447]:real == 13310.308  imaginary == -1781.616
+X[448]:real == 13222.603  imaginary == -2352.666
+X[449]:real == 13108.785  imaginary == -2918.726
+X[450]:real == 12969.121  imaginary == -3478.619
+X[451]:real == 12803.935  imaginary == -4031.184
+X[452]:real == 12613.601  imaginary == -4575.275
+X[453]:real == 12398.543  imaginary == -5109.766
+X[454]:real == 12159.238  imaginary == -5633.551
+X[455]:real == 11896.209  imaginary == -6145.547
+X[456]:real == 11610.030  imaginary == -6644.698
+X[457]:real == 11301.320  imaginary == -7129.974
+X[458]:real == 10970.743  imaginary == -7600.375
+X[459]:real == 10619.010  imaginary == -8054.933
+X[460]:real == 10246.871  imaginary == -8492.712
+X[461]:real == 9855.120  imaginary == -8912.814
+X[462]:real == 9444.589  imaginary == -9314.374
+X[463]:real == 9016.148  imaginary == -9696.572
+X[464]:real == 8570.703  imaginary == -10058.622
+X[465]:real == 8109.193  imaginary == -10399.784
+X[466]:real == 7632.592  imaginary == -10719.362
+X[467]:real == 7141.900  imaginary == -11016.701
+X[468]:real == 6638.148  imaginary == -11291.197
+X[469]:real == 6122.391  imaginary == -11542.290
+X[470]:real == 5595.711  imaginary == -11769.471
+X[471]:real == 5059.207  imaginary == -11972.277
+X[472]:real == 4514.000  imaginary == -12150.299
+X[473]:real == 3961.228  imaginary == -12303.178
+X[474]:real == 3402.043  imaginary == -12430.605
+X[475]:real == 2837.609  imaginary == -12532.327
+X[476]:real == 2269.100  imaginary == -12608.142
+X[477]:real == 1697.698  imaginary == -12657.900
+X[478]:real == 1124.591  imaginary == -12681.506
+X[479]:real == 550.966  imaginary == -12678.921
+X[480]:real == -21.984  imaginary == -12650.155
+X[481]:real == -593.074  imaginary == -12595.276
+X[482]:real == -1161.120  imaginary == -12514.404
+X[483]:real == -1724.946  imaginary == -12407.710
+X[484]:real == -2283.385  imaginary == -12275.423
+X[485]:real == -2835.282  imaginary == -12117.819
+X[486]:real == -3379.496  imaginary == -11935.231
+X[487]:real == -3914.903  imaginary == -11728.038
+X[488]:real == -4440.397  imaginary == -11496.673
+X[489]:real == -4954.893  imaginary == -11241.618
+X[490]:real == -5457.328  imaginary == -10963.401
+X[491]:real == -5946.668  imaginary == -10662.600
+X[492]:real == -6421.901  imaginary == -10339.839
+X[493]:real == -6882.049  imaginary == -9995.785
+X[494]:real == -7326.164  imaginary == -9631.149
+X[495]:real == -7753.329  imaginary == -9246.686
+X[496]:real == -8162.665  imaginary == -8843.189
+X[497]:real == -8553.329  imaginary == -8421.491
+X[498]:real == -8924.517  imaginary == -7982.461
+X[499]:real == -9275.465  imaginary == -7527.006
+X[500]:real == -9605.450  imaginary == -7056.064
+X[501]:real == -9913.793  imaginary == -6570.606
+X[502]:real == -10199.861  imaginary == -6071.630
+X[503]:real == -10463.063  imaginary == -5560.165
+X[504]:real == -10702.860  imaginary == -5037.264
+X[505]:real == -10918.758  imaginary == -4504.002
+X[506]:real == -11110.312  imaginary == -3961.478
+X[507]:real == -11277.130  imaginary == -3410.807
+X[508]:real == -11418.869  imaginary == -2853.121
+X[509]:real == -11535.236  imaginary == -2289.569
+X[510]:real == -11625.992  imaginary == -1721.309
+X[511]:real == -11690.952  imaginary == -1149.509
+X[512]:real == -11729.981  imaginary == -575.346
+X[513]:real == -11743.000  imaginary ==  0.000
+X[514]:real == -11729.981  imaginary == 575.346
+X[515]:real == -11690.952  imaginary == 1149.509
+X[516]:real == -11625.992  imaginary == 1721.309
+X[517]:real == -11535.236  imaginary == 2289.569
+X[518]:real == -11418.869  imaginary == 2853.121
+X[519]:real == -11277.130  imaginary == 3410.807
+X[520]:real == -11110.312  imaginary == 3961.478
+X[521]:real == -10918.758  imaginary == 4504.002
+X[522]:real == -10702.860  imaginary == 5037.264
+X[523]:real == -10463.063  imaginary == 5560.165
+X[524]:real == -10199.861  imaginary == 6071.630
+X[525]:real == -9913.793  imaginary == 6570.606
+X[526]:real == -9605.450  imaginary == 7056.064
+X[527]:real == -9275.465  imaginary == 7527.006
+X[528]:real == -8924.517  imaginary == 7982.461
+X[529]:real == -8553.329  imaginary == 8421.491
+X[530]:real == -8162.665  imaginary == 8843.189
+X[531]:real == -7753.329  imaginary == 9246.686
+X[532]:real == -7326.164  imaginary == 9631.149
+X[533]:real == -6882.049  imaginary == 9995.785
+X[534]:real == -6421.901  imaginary == 10339.839
+X[535]:real == -5946.668  imaginary == 10662.600
+X[536]:real == -5457.328  imaginary == 10963.401
+X[537]:real == -4954.893  imaginary == 11241.618
+X[538]:real == -4440.397  imaginary == 11496.673
+X[539]:real == -3914.903  imaginary == 11728.038
+X[540]:real == -3379.496  imaginary == 11935.231
+X[541]:real == -2835.282  imaginary == 12117.819
+X[542]:real == -2283.385  imaginary == 12275.423
+X[543]:real == -1724.946  imaginary == 12407.710
+X[544]:real == -1161.120  imaginary == 12514.404
+X[545]:real == -593.074  imaginary == 12595.276
+X[546]:real == -21.984  imaginary == 12650.155
+X[547]:real == 550.966  imaginary == 12678.921
+X[548]:real == 1124.591  imaginary == 12681.506
+X[549]:real == 1697.698  imaginary == 12657.900
+X[550]:real == 2269.100  imaginary == 12608.142
+X[551]:real == 2837.609  imaginary == 12532.327
+X[552]:real == 3402.043  imaginary == 12430.605
+X[553]:real == 3961.228  imaginary == 12303.178
+X[554]:real == 4514.000  imaginary == 12150.299
+X[555]:real == 5059.207  imaginary == 11972.277
+X[556]:real == 5595.711  imaginary == 11769.471
+X[557]:real == 6122.391  imaginary == 11542.290
+X[558]:real == 6638.148  imaginary == 11291.197
+X[559]:real == 7141.900  imaginary == 11016.701
+X[560]:real == 7632.592  imaginary == 10719.362
+X[561]:real == 8109.193  imaginary == 10399.784
+X[562]:real == 8570.703  imaginary == 10058.622
+X[563]:real == 9016.148  imaginary == 9696.572
+X[564]:real == 9444.589  imaginary == 9314.374
+X[565]:real == 9855.120  imaginary == 8912.814
+X[566]:real == 10246.871  imaginary == 8492.712
+X[567]:real == 10619.010  imaginary == 8054.933
+X[568]:real == 10970.743  imaginary == 7600.375
+X[569]:real == 11301.320  imaginary == 7129.974
+X[570]:real == 11610.030  imaginary == 6644.698
+X[571]:real == 11896.209  imaginary == 6145.547
+X[572]:real == 12159.238  imaginary == 5633.551
+X[573]:real == 12398.543  imaginary == 5109.766
+X[574]:real == 12613.601  imaginary == 4575.275
+X[575]:real == 12803.935  imaginary == 4031.184
+X[576]:real == 12969.121  imaginary == 3478.619
+X[577]:real == 13108.785  imaginary == 2918.726
+X[578]:real == 13222.603  imaginary == 2352.666
+X[579]:real == 13310.308  imaginary == 1781.616
+X[580]:real == 13371.682  imaginary == 1206.762
+X[581]:real == 13406.564  imaginary == 629.301
+X[582]:real == 13414.844  imaginary == 50.438
+X[583]:real == 13396.469  imaginary == -528.620
+X[584]:real == 13351.440  imaginary == -1106.663
+X[585]:real == 13279.811  imaginary == -1682.482
+X[586]:real == 13181.694  imaginary == -2254.869
+X[587]:real == 13057.252  imaginary == -2822.624
+X[588]:real == 12906.705  imaginary == -3384.553
+X[589]:real == 12730.325  imaginary == -3939.474
+X[590]:real == 12528.437  imaginary == -4486.215
+X[591]:real == 12301.422  imaginary == -5023.623
+X[592]:real == 12049.709  imaginary == -5550.558
+X[593]:real == 11773.781  imaginary == -6065.903
+X[594]:real == 11474.170  imaginary == -6568.563
+X[595]:real == 11151.459  imaginary == -7057.466
+X[596]:real == 10806.276  imaginary == -7531.567
+X[597]:real == 10439.301  imaginary == -7989.850
+X[598]:real == 10051.255  imaginary == -8431.330
+X[599]:real == 9642.905  imaginary == -8855.054
+X[600]:real == 9215.063  imaginary == -9260.105
+X[601]:real == 8768.579  imaginary == -9645.603
+X[602]:real == 8304.344  imaginary == -10010.705
+X[603]:real == 7823.287  imaginary == -10354.611
+X[604]:real == 7326.374  imaginary == -10676.559
+X[605]:real == 6814.602  imaginary == -10975.836
+X[606]:real == 6289.004  imaginary == -11251.771
+X[607]:real == 5750.640  imaginary == -11503.739
+X[608]:real == 5200.599  imaginary == -11731.166
+X[609]:real == 4639.998  imaginary == -11933.524
+X[610]:real == 4069.975  imaginary == -12110.339
+X[611]:real == 3491.689  imaginary == -12261.185
+X[612]:real == 2906.320  imaginary == -12385.691
+X[613]:real == 2315.064  imaginary == -12483.538
+X[614]:real == 1719.131  imaginary == -12554.461
+X[615]:real == 1119.742  imaginary == -12598.251
+X[616]:real == 518.130  imaginary == -12614.753
+X[617]:real == -84.468  imaginary == -12603.868
+X[618]:real == -686.809  imaginary == -12565.553
+X[619]:real == -1287.648  imaginary == -12499.821
+X[620]:real == -1885.742  imaginary == -12406.741
+X[621]:real == -2479.850  imaginary == -12286.438
+X[622]:real == -3068.737  imaginary == -12139.094
+X[623]:real == -3651.176  imaginary == -11964.947
+X[624]:real == -4225.951  imaginary == -11764.288
+X[625]:real == -4791.859  imaginary == -11537.466
+X[626]:real == -5347.712  imaginary == -11284.882
+X[627]:real == -5892.343  imaginary == -11006.992
+X[628]:real == -6424.601  imaginary == -10704.304
+X[629]:real == -6943.362  imaginary == -10377.379
+X[630]:real == -7447.524  imaginary == -10026.827
+X[631]:real == -7936.016  imaginary == -9653.309
+X[632]:real == -8407.792  imaginary == -9257.536
+X[633]:real == -8861.844  imaginary == -8840.262
+X[634]:real == -9297.192  imaginary == -8402.291
+X[635]:real == -9712.895  imaginary == -7944.470
+X[636]:real == -10108.052  imaginary == -7467.686
+X[637]:real == -10481.798  imaginary == -6972.871
+X[638]:real == -10833.313  imaginary == -6460.993
+X[639]:real == -11161.819  imaginary == -5933.058
+X[640]:real == -11466.583  imaginary == -5390.108
+X[641]:real == -11746.920  imaginary == -4833.219
+X[642]:real == -12002.194  imaginary == -4263.496
+X[643]:real == -12231.816  imaginary == -3682.073
+X[644]:real == -12435.251  imaginary == -3090.113
+X[645]:real == -12612.014  imaginary == -2488.802
+X[646]:real == -12761.676  imaginary == -1879.348
+X[647]:real == -12883.861  imaginary == -1262.980
+X[648]:real == -12978.247  imaginary == -640.942
+X[649]:real == -13044.570  imaginary == -14.494
+X[650]:real == -13082.622  imaginary == 615.090
+X[651]:real == -13092.253  imaginary == 1246.529
+X[652]:real == -13073.369  imaginary == 1878.533
+X[653]:real == -13025.938  imaginary == 2509.809
+X[654]:real == -12949.981  imaginary == 3139.060
+X[655]:real == -12845.583  imaginary == 3764.991
+X[656]:real == -12712.882  imaginary == 4386.311
+X[657]:real == -12552.079  imaginary == 5001.732
+X[658]:real == -12363.431  imaginary == 5609.977
+X[659]:real == -12147.252  imaginary == 6209.780
+X[660]:real == -11903.914  imaginary == 6799.888
+X[661]:real == -11633.847  imaginary == 7379.064
+X[662]:real == -11337.535  imaginary == 7946.090
+X[663]:real == -11015.517  imaginary == 8499.771
+X[664]:real == -10668.388  imaginary == 9038.932
+X[665]:real == -10296.795  imaginary == 9562.428
+X[666]:real == -9901.437  imaginary == 10069.141
+X[667]:real == -9483.064  imaginary == 10557.984
+X[668]:real == -9042.475  imaginary == 11027.903
+X[669]:real == -8580.516  imaginary == 11477.881
+X[670]:real == -8098.082  imaginary == 11906.937
+X[671]:real == -7596.111  imaginary == 12314.130
+X[672]:real == -7075.582  imaginary == 12698.562
+X[673]:real == -6537.519  imaginary == 13059.377
+X[674]:real == -5982.982  imaginary == 13395.765
+X[675]:real == -5413.070  imaginary == 13706.965
+X[676]:real == -4828.914  imaginary == 13992.262
+X[677]:real == -4231.682  imaginary == 14250.995
+X[678]:real == -3622.570  imaginary == 14482.552
+X[679]:real == -3002.802  imaginary == 14686.376
+X[680]:real == -2373.629  imaginary == 14861.966
+X[681]:real == -1736.325  imaginary == 15008.875
+X[682]:real == -1092.185  imaginary == 15126.713
+X[683]:real == -442.522  imaginary == 15215.149
+X[684]:real == 211.336  imaginary == 15273.912
+X[685]:real == 868.045  imaginary == 15302.787
+X[686]:real == 1526.253  imaginary == 15301.624
+X[687]:real == 2184.600  imaginary == 15270.329
+X[688]:real == 2841.720  imaginary == 15208.873
+X[689]:real == 3496.244  imaginary == 15117.287
+X[690]:real == 4146.806  imaginary == 14995.662
+X[691]:real == 4792.040  imaginary == 14844.153
+X[692]:real == 5430.588  imaginary == 14662.976
+X[693]:real == 6061.100  imaginary == 14452.407
+X[694]:real == 6682.238  imaginary == 14212.784
+X[695]:real == 7292.676  imaginary == 13944.505
+X[696]:real == 7891.108  imaginary == 13648.029
+X[697]:real == 8476.244  imaginary == 13323.871
+X[698]:real == 9046.820  imaginary == 12972.609
+X[699]:real == 9601.593  imaginary == 12594.875
+X[700]:real == 10139.350  imaginary == 12191.359
+X[701]:real == 10658.907  imaginary == 11762.804
+X[702]:real == 11159.113  imaginary == 11310.009
+X[703]:real == 11638.850  imaginary == 10833.825
+X[704]:real == 12097.040  imaginary == 10335.154
+X[705]:real == 12532.642  imaginary == 9814.947
+X[706]:real == 12944.658  imaginary == 9274.201
+X[707]:real == 13332.135  imaginary == 8713.963
+X[708]:real == 13694.163  imaginary == 8135.319
+X[709]:real == 14029.882  imaginary == 7539.400
+X[710]:real == 14338.482  imaginary == 6927.376
+X[711]:real == 14619.204  imaginary == 6300.455
+X[712]:real == 14871.343  imaginary == 5659.878
+X[713]:real == 15094.250  imaginary == 5006.921
+X[714]:real == 15287.329  imaginary == 4342.891
+X[715]:real == 15450.046  imaginary == 3669.121
+X[716]:real == 15581.924  imaginary == 2986.971
+X[717]:real == 15682.547  imaginary == 2297.823
+X[718]:real == 15751.562  imaginary == 1603.079
+X[719]:real == 15788.676  imaginary == 904.160
+X[720]:real == 15793.661  imaginary == 202.499
+X[721]:real == 15766.352  imaginary == -500.456
+X[722]:real == 15706.651  imaginary == -1203.251
+X[723]:real == 15614.523  imaginary == -1904.424
+X[724]:real == 15489.998  imaginary == -2602.511
+X[725]:real == 15333.173  imaginary == -3296.047
+X[726]:real == 15144.212  imaginary == -3983.569
+X[727]:real == 14923.341  imaginary == -4663.620
+X[728]:real == 14670.855  imaginary == -5334.753
+X[729]:real == 14387.113  imaginary == -5995.530
+X[730]:real == 14072.538  imaginary == -6644.530
+X[731]:real == 13727.619  imaginary == -7280.346
+X[732]:real == 13352.908  imaginary == -7901.593
+X[733]:real == 12949.018  imaginary == -8506.909
+X[734]:real == 12516.627  imaginary == -9094.959
+X[735]:real == 12056.470  imaginary == -9664.433
+X[736]:real == 11569.345  imaginary == -10214.055
+X[737]:real == 11056.106  imaginary == -10742.584
+X[738]:real == 10517.664  imaginary == -11248.812
+X[739]:real == 9954.987  imaginary == -11731.572
+X[740]:real == 9369.093  imaginary == -12189.741
+X[741]:real == 8761.056  imaginary == -12622.236
+X[742]:real == 8131.996  imaginary == -13028.024
+X[743]:real == 7483.084  imaginary == -13406.117
+X[744]:real == 6815.535  imaginary == -13755.583
+X[745]:real == 6130.608  imaginary == -14075.538
+X[746]:real == 5429.603  imaginary == -14365.156
+X[747]:real == 4713.859  imaginary == -14623.667
+X[748]:real == 3984.751  imaginary == -14850.361
+X[749]:real == 3243.690  imaginary == -15044.585
+X[750]:real == 2492.114  imaginary == -15205.753
+X[751]:real == 1731.494  imaginary == -15333.338
+X[752]:real == 963.324  imaginary == -15426.881
+X[753]:real == 189.121  imaginary == -15485.987
+X[754]:real == -589.576  imaginary == -15510.329
+X[755]:real == -1371.213  imaginary == -15499.649
+X[756]:real == -2154.223  imaginary == -15453.757
+X[757]:real == -2937.024  imaginary == -15372.533
+X[758]:real == -3718.029  imaginary == -15255.927
+X[759]:real == -4495.647  imaginary == -15103.960
+X[760]:real == -5268.282  imaginary == -14916.726
+X[761]:real == -6034.342  imaginary == -14694.387
+X[762]:real == -6792.240  imaginary == -14437.178
+X[763]:real == -7540.395  imaginary == -14145.407
+X[764]:real == -8277.237  imaginary == -13819.450
+X[765]:real == -9001.212  imaginary == -13459.755
+X[766]:real == -9710.781  imaginary == -13066.840
+X[767]:real == -10404.427  imaginary == -12641.294
+X[768]:real == -11080.656  imaginary == -12183.772
+X[769]:real == -11738.000  imaginary == -11695.000
+X[770]:real == -12375.021  imaginary == -11175.768
+X[771]:real == -12990.314  imaginary == -10626.932
+X[772]:real == -13582.509  imaginary == -10049.414
+X[773]:real == -14150.275  imaginary == -9444.197
+X[774]:real == -14692.322  imaginary == -8812.326
+X[775]:real == -15207.402  imaginary == -8154.905
+X[776]:real == -15694.318  imaginary == -7473.097
+X[777]:real == -16151.920  imaginary == -6768.118
+X[778]:real == -16579.108  imaginary == -6041.241
+X[779]:real == -16974.840  imaginary == -5293.787
+X[780]:real == -17338.129  imaginary == -4527.129
+X[781]:real == -17668.046  imaginary == -3742.684
+X[782]:real == -17963.725  imaginary == -2941.916
+X[783]:real == -18224.363  imaginary == -2126.329
+X[784]:real == -18449.221  imaginary == -1297.467
+X[785]:real == -18637.627  imaginary == -456.907
+X[786]:real == -18788.979  imaginary == 393.736
+X[787]:real == -18902.745  imaginary == 1252.821
+X[788]:real == -18978.464  imaginary == 2118.677
+X[789]:real == -19015.749  imaginary == 2989.611
+X[790]:real == -19014.286  imaginary == 3863.906
+X[791]:real == -18973.838  imaginary == 4739.830
+X[792]:real == -18894.244  imaginary == 5615.637
+X[793]:real == -18775.419  imaginary == 6489.566
+X[794]:real == -18617.356  imaginary == 7359.852
+X[795]:real == -18420.127  imaginary == 8224.723
+X[796]:real == -18183.883  imaginary == 9082.409
+X[797]:real == -17908.853  imaginary == 9931.139
+X[798]:real == -17595.345  imaginary == 10769.150
+X[799]:real == -17243.745  imaginary == 11594.688
+X[800]:real == -16854.519  imaginary == 12406.010
+X[801]:real == -16428.210  imaginary == 13201.393
+X[802]:real == -15965.440  imaginary == 13979.131
+X[803]:real == -15466.907  imaginary == 14737.540
+X[804]:real == -14933.384  imaginary == 15474.966
+X[805]:real == -14365.721  imaginary == 16189.782
+X[806]:real == -13764.841  imaginary == 16880.396
+X[807]:real == -13131.740  imaginary == 17545.252
+X[808]:real == -12467.485  imaginary == 18182.833
+X[809]:real == -11773.212  imaginary == 18791.667
+X[810]:real == -11050.126  imaginary == 19370.325
+X[811]:real == -10299.498  imaginary == 19917.430
+X[812]:real == -9522.663  imaginary == 20431.657
+X[813]:real == -8721.018  imaginary == 20911.734
+X[814]:real == -7896.018  imaginary == 21356.448
+X[815]:real == -7049.179  imaginary == 21764.647
+X[816]:real == -6182.068  imaginary == 22135.243
+X[817]:real == -5296.307  imaginary == 22467.211
+X[818]:real == -4393.566  imaginary == 22759.597
+X[819]:real == -3475.563  imaginary == 23011.516
+X[820]:real == -2544.058  imaginary == 23222.156
+X[821]:real == -1600.854  imaginary == 23390.780
+X[822]:real == -647.789  imaginary == 23516.727
+X[823]:real == 313.263  imaginary == 23599.416
+X[824]:real == 1280.398  imaginary == 23638.344
+X[825]:real == 2251.682  imaginary == 23633.092
+X[826]:real == 3225.160  imaginary == 23583.322
+X[827]:real == 4198.854  imaginary == 23488.781
+X[828]:real == 5170.771  imaginary == 23349.303
+X[829]:real == 6138.902  imaginary == 23164.806
+X[830]:real == 7101.230  imaginary == 22935.296
+X[831]:real == 8055.732  imaginary == 22660.867
+X[832]:real == 9000.381  imaginary == 22341.703
+X[833]:real == 9933.154  imaginary == 21978.073
+X[834]:real == 10852.032  imaginary == 21570.338
+X[835]:real == 11755.004  imaginary == 21118.945
+X[836]:real == 12640.074  imaginary == 20624.432
+X[837]:real == 13505.263  imaginary == 20087.425
+X[838]:real == 14348.609  imaginary == 19508.635
+X[839]:real == 15168.180  imaginary == 18888.864
+X[840]:real == 15962.067  imaginary == 18228.997
+X[841]:real == 16728.397  imaginary == 17530.006
+X[842]:real == 17465.329  imaginary == 16792.947
+X[843]:real == 18171.065  imaginary == 16018.959
+X[844]:real == 18843.848  imaginary == 15209.262
+X[845]:real == 19481.968  imaginary == 14365.155
+X[846]:real == 20083.765  imaginary == 13488.016
+X[847]:real == 20647.633  imaginary == 12579.298
+X[848]:real == 21172.021  imaginary == 11640.530
+X[849]:real == 21655.443  imaginary == 10673.310
+X[850]:real == 22096.471  imaginary == 9679.308
+X[851]:real == 22493.746  imaginary == 8660.258
+X[852]:real == 22845.980  imaginary == 7617.960
+X[853]:real == 23151.954  imaginary == 6554.275
+X[854]:real == 23410.528  imaginary == 5471.123
+X[855]:real == 23620.638  imaginary == 4370.478
+X[856]:real == 23781.299  imaginary == 3254.368
+X[857]:real == 23891.613  imaginary == 2124.868
+X[858]:real == 23950.762  imaginary == 984.101
+X[859]:real == 23958.021  imaginary == -165.770
+X[860]:real == 23912.749  imaginary == -1322.542
+X[861]:real == 23814.400  imaginary == -2483.978
+X[862]:real == 23662.520  imaginary == -3647.810
+X[863]:real == 23456.748  imaginary == -4811.741
+X[864]:real == 23196.820  imaginary == -5973.452
+X[865]:real == 22882.570  imaginary == -7130.605
+X[866]:real == 22513.929  imaginary == -8280.846
+X[867]:real == 22090.926  imaginary == -9421.809
+X[868]:real == 21613.694  imaginary == -10551.122
+X[869]:real == 21082.461  imaginary == -11666.409
+X[870]:real == 20497.559  imaginary == -12765.296
+X[871]:real == 19859.421  imaginary == -13845.414
+X[872]:real == 19168.580  imaginary == -14904.403
+X[873]:real == 18425.670  imaginary == -15939.919
+X[874]:real == 17631.426  imaginary == -16949.633
+X[875]:real == 16786.682  imaginary == -17931.242
+X[876]:real == 15892.374  imaginary == -18882.466
+X[877]:real == 14949.533  imaginary == -19801.059
+X[878]:real == 13959.291  imaginary == -20684.808
+X[879]:real == 12922.873  imaginary == -21531.540
+X[880]:real == 11841.601  imaginary == -22339.125
+X[881]:real == 10716.890  imaginary == -23105.481
+X[882]:real == 9550.247  imaginary == -23828.577
+X[883]:real == 8343.266  imaginary == -24506.436
+X[884]:real == 7097.633  imaginary == -25137.142
+X[885]:real == 5815.117  imaginary == -25718.842
+X[886]:real == 4497.569  imaginary == -26249.748
+X[887]:real == 3146.923  imaginary == -26728.143
+X[888]:real == 1765.188  imaginary == -27152.385
+X[889]:real == 354.451  imaginary == -27520.908
+X[890]:real == -1083.132  imaginary == -27832.225
+X[891]:real == -2545.334  imaginary == -28084.935
+X[892]:real == -4029.864  imaginary == -28277.723
+X[893]:real == -5534.368  imaginary == -28409.363
+X[894]:real == -7056.433  imaginary == -28478.722
+X[895]:real == -8593.594  imaginary == -28484.762
+X[896]:real == -10143.331  imaginary == -28426.541
+X[897]:real == -11703.080  imaginary == -28303.219
+X[898]:real == -13270.231  imaginary == -28114.056
+X[899]:real == -14842.137  imaginary == -27858.418
+X[900]:real == -16416.115  imaginary == -27535.776
+X[901]:real == -17989.452  imaginary == -27145.707
+X[902]:real == -19559.408  imaginary == -26687.899
+X[903]:real == -21123.220  imaginary == -26162.150
+X[904]:real == -22678.111  imaginary == -25568.369
+X[905]:real == -24221.286  imaginary == -24906.579
+X[906]:real == -25749.947  imaginary == -24176.914
+X[907]:real == -27261.287  imaginary == -23379.624
+X[908]:real == -28752.504  imaginary == -22515.072
+X[909]:real == -30220.799  imaginary == -21583.736
+X[910]:real == -31663.383  imaginary == -20586.209
+X[911]:real == -33077.485  imaginary == -19523.198
+X[912]:real == -34460.350  imaginary == -18395.524
+X[913]:real == -35809.248  imaginary == -17204.122
+X[914]:real == -37121.480  imaginary == -15950.040
+X[915]:real == -38394.378  imaginary == -14634.436
+X[916]:real == -39625.313  imaginary == -13258.582
+X[917]:real == -40811.699  imaginary == -11823.856
+X[918]:real == -41950.998  imaginary == -10331.747
+X[919]:real == -43040.723  imaginary == -8783.848
+X[920]:real == -44078.442  imaginary == -7181.858
+X[921]:real == -45061.785  imaginary == -5527.576
+X[922]:real == -45988.446  imaginary == -3822.905
+X[923]:real == -46856.189  imaginary == -2069.842
+X[924]:real == -47662.850  imaginary == -270.480
+X[925]:real == -48406.341  imaginary == 1572.994
+X[926]:real == -49084.658  imaginary == 3458.306
+X[927]:real == -49695.879  imaginary == 5383.093
+X[928]:real == -50238.170  imaginary == 7344.911
+X[929]:real == -50709.791  imaginary == 9341.235
+X[930]:real == -51109.095  imaginary == 11369.466
+X[931]:real == -51434.535  imaginary == 13426.929
+X[932]:real == -51684.664  imaginary == 15510.884
+X[933]:real == -51858.142  imaginary == 17618.524
+X[934]:real == -51953.733  imaginary == 19746.981
+X[935]:real == -51970.313  imaginary == 21893.333
+X[936]:real == -51906.869  imaginary == 24054.603
+X[937]:real == -51762.505  imaginary == 26227.769
+X[938]:real == -51536.438  imaginary == 28409.763
+X[939]:real == -51228.007  imaginary == 30597.481
+X[940]:real == -50836.669  imaginary == 32787.783
+X[941]:real == -50362.005  imaginary == 34977.501
+X[942]:real == -49803.718  imaginary == 37163.442
+X[943]:real == -49161.635  imaginary == 39342.395
+X[944]:real == -48435.711  imaginary == 41511.131
+X[945]:real == -47626.024  imaginary == 43666.416
+X[946]:real == -46732.781  imaginary == 45805.008
+X[947]:real == -45756.315  imaginary == 47923.666
+X[948]:real == -44697.088  imaginary == 50019.157
+X[949]:real == -43555.687  imaginary == 52088.255
+X[950]:real == -42332.827  imaginary == 54127.753
+X[951]:real == -41029.352  imaginary == 56134.463
+X[952]:real == -39646.228  imaginary == 58105.223
+X[953]:real == -38184.549  imaginary == 60036.902
+X[954]:real == -36645.532  imaginary == 61926.405
+X[955]:real == -35030.517  imaginary == 63770.679
+X[956]:real == -33340.966  imaginary == 65566.714
+X[957]:real == -31578.459  imaginary == 67311.555
+X[958]:real == -29744.696  imaginary == 69002.297
+X[959]:real == -27841.491  imaginary == 70636.101
+X[960]:real == -25870.773  imaginary == 72210.189
+X[961]:real == -23834.581  imaginary == 73721.853
+X[962]:real == -21735.063  imaginary == 75168.459
+X[963]:real == -19574.473  imaginary == 76547.454
+X[964]:real == -17355.167  imaginary == 77856.364
+X[965]:real == -15079.602  imaginary == 79092.804
+X[966]:real == -12750.328  imaginary == 80254.477
+X[967]:real == -10369.993  imaginary == 81339.185
+X[968]:real == -7941.328  imaginary == 82344.824
+X[969]:real == -5467.155  imaginary == 83269.394
+X[970]:real == -2950.373  imaginary == 84111.002
+X[971]:real == -393.961  imaginary == 84867.861
+X[972]:real == 2199.030  imaginary == 85538.298
+X[973]:real == 4825.480  imaginary == 86120.752
+X[974]:real == 7482.205  imaginary == 86613.784
+X[975]:real == 10165.961  imaginary == 87016.072
+X[976]:real == 12873.448  imaginary == 87326.417
+X[977]:real == 15601.318  imaginary == 87543.747
+X[978]:real == 18346.176  imaginary == 87667.115
+X[979]:real == 21104.587  imaginary == 87695.705
+X[980]:real == 23873.081  imaginary == 87628.829
+X[981]:real == 26648.158  imaginary == 87465.934
+X[982]:real == 29426.291  imaginary == 87206.597
+X[983]:real == 32203.936  imaginary == 86850.533
+X[984]:real == 34977.531  imaginary == 86397.590
+X[985]:real == 37743.509  imaginary == 85847.753
+X[986]:real == 40498.296  imaginary == 85201.142
+X[987]:real == 43238.319  imaginary == 84458.014
+X[988]:real == 45960.013  imaginary == 83618.765
+X[989]:real == 48659.826  imaginary == 82683.924
+X[990]:real == 51334.222  imaginary == 81654.158
+X[991]:real == 53979.687  imaginary == 80530.268
+X[992]:real == 56592.737  imaginary == 79313.190
+X[993]:real == 59169.920  imaginary == 78003.995
+X[994]:real == 61707.824  imaginary == 76603.883
+X[995]:real == 64203.079  imaginary == 75114.187
+X[996]:real == 66652.364  imaginary == 73536.369
+X[997]:real == 69052.413  imaginary == 71872.017
+X[998]:real == 71400.018  imaginary == 70122.844
+X[999]:real == 73692.036  imaginary == 68290.686
+X[1000]:real == 75925.391  imaginary == 66377.500
+X[1001]:real == 78097.081  imaginary == 64385.360
+X[1002]:real == 80204.182  imaginary == 62316.454
+X[1003]:real == 82243.853  imaginary == 60173.083
+X[1004]:real == 84213.337  imaginary == 57957.656
+X[1005]:real == 86109.972  imaginary == 55672.685
+X[1006]:real == 87931.187  imaginary == 53320.788
+X[1007]:real == 89674.512  imaginary == 50904.676
+X[1008]:real == 91337.580  imaginary == 48427.156
+X[1009]:real == 92918.131  imaginary == 45891.127
+X[1010]:real == 94414.012  imaginary == 43299.569
+X[1011]:real == 95823.186  imaginary == 40655.547
+X[1012]:real == 97143.731  imaginary == 37962.202
+X[1013]:real == 98373.845  imaginary == 35222.748
+X[1014]:real == 99511.847  imaginary == 32440.465
+X[1015]:real == 100556.183  imaginary == 29618.697
+X[1016]:real == 101505.423  imaginary == 26760.846
+X[1017]:real == 102358.269  imaginary == 23870.367
+X[1018]:real == 103113.552  imaginary == 20950.765
+X[1019]:real == 103770.238  imaginary == 18005.583
+X[1020]:real == 104327.427  imaginary == 15038.407
+X[1021]:real == 104784.355  imaginary == 12052.852
+X[1022]:real == 105140.395  imaginary == 9052.561
+X[1023]:real == 105395.059  imaginary == 6041.200
+X[1024]:real == 105547.997  imaginary == 3022.449
+
+
+**********PWR Spectrum*********
+X[0]:PWR ==  0.000
+X[1]:PWR == 105599.000
+X[2]:PWR == 105591.263
+X[3]:PWR == 105568.057
+X[4]:PWR == 105529.387
+X[5]:PWR == 105475.269
+X[6]:PWR == 105405.720
+X[7]:PWR == 105320.764
+X[8]:PWR == 105220.431
+X[9]:PWR == 105104.755
+X[10]:PWR == 104973.777
+X[11]:PWR == 104827.540
+X[12]:PWR == 104666.095
+X[13]:PWR == 104489.498
+X[14]:PWR == 104297.810
+X[15]:PWR == 104091.097
+X[16]:PWR == 103869.429
+X[17]:PWR == 103632.883
+X[18]:PWR == 103381.541
+X[19]:PWR == 103115.489
+X[20]:PWR == 102834.819
+X[21]:PWR == 102539.627
+X[22]:PWR == 102230.015
+X[23]:PWR == 101906.090
+X[24]:PWR == 101567.964
+X[25]:PWR == 101215.753
+X[26]:PWR == 100849.579
+X[27]:PWR == 100469.567
+X[28]:PWR == 100075.850
+X[29]:PWR == 99668.563
+X[30]:PWR == 99247.847
+X[31]:PWR == 98813.847
+X[32]:PWR == 98366.714
+X[33]:PWR == 97906.602
+X[34]:PWR == 97433.670
+X[35]:PWR == 96948.082
+X[36]:PWR == 96450.007
+X[37]:PWR == 95939.616
+X[38]:PWR == 95417.088
+X[39]:PWR == 94882.603
+X[40]:PWR == 94336.348
+X[41]:PWR == 93778.511
+X[42]:PWR == 93209.288
+X[43]:PWR == 92628.876
+X[44]:PWR == 92037.477
+X[45]:PWR == 91435.299
+X[46]:PWR == 90822.551
+X[47]:PWR == 90199.447
+X[48]:PWR == 89566.206
+X[49]:PWR == 88923.050
+X[50]:PWR == 88270.203
+X[51]:PWR == 87607.896
+X[52]:PWR == 86936.362
+X[53]:PWR == 86255.836
+X[54]:PWR == 85566.559
+X[55]:PWR == 84868.776
+X[56]:PWR == 84162.732
+X[57]:PWR == 83448.678
+X[58]:PWR == 82726.868
+X[59]:PWR == 81997.559
+X[60]:PWR == 81261.011
+X[61]:PWR == 80517.489
+X[62]:PWR == 79767.257
+X[63]:PWR == 79010.586
+X[64]:PWR == 78247.749
+X[65]:PWR == 77479.022
+X[66]:PWR == 76704.682
+X[67]:PWR == 75925.012
+X[68]:PWR == 75140.295
+X[69]:PWR == 74350.820
+X[70]:PWR == 73556.876
+X[71]:PWR == 72758.756
+X[72]:PWR == 71956.755
+X[73]:PWR == 71151.172
+X[74]:PWR == 70342.308
+X[75]:PWR == 69530.466
+X[76]:PWR == 68715.951
+X[77]:PWR == 67899.074
+X[78]:PWR == 67080.144
+X[79]:PWR == 66259.476
+X[80]:PWR == 65437.387
+X[81]:PWR == 64614.194
+X[82]:PWR == 63790.220
+X[83]:PWR == 62965.788
+X[84]:PWR == 62141.224
+X[85]:PWR == 61316.858
+X[86]:PWR == 60493.021
+X[87]:PWR == 59670.047
+X[88]:PWR == 58848.271
+X[89]:PWR == 58028.034
+X[90]:PWR == 57209.676
+X[91]:PWR == 56393.541
+X[92]:PWR == 55579.975
+X[93]:PWR == 54769.328
+X[94]:PWR == 53961.950
+X[95]:PWR == 53158.196
+X[96]:PWR == 52358.422
+X[97]:PWR == 51562.986
+X[98]:PWR == 50772.251
+X[99]:PWR == 49986.579
+X[100]:PWR == 49206.336
+X[101]:PWR == 48431.892
+X[102]:PWR == 47663.617
+X[103]:PWR == 46901.884
+X[104]:PWR == 46147.067
+X[105]:PWR == 45399.544
+X[106]:PWR == 44659.692
+X[107]:PWR == 43927.893
+X[108]:PWR == 43204.528
+X[109]:PWR == 42489.980
+X[110]:PWR == 41784.631
+X[111]:PWR == 41088.867
+X[112]:PWR == 40403.070
+X[113]:PWR == 39727.624
+X[114]:PWR == 39062.911
+X[115]:PWR == 38409.312
+X[116]:PWR == 37767.206
+X[117]:PWR == 37136.967
+X[118]:PWR == 36518.967
+X[119]:PWR == 35913.571
+X[120]:PWR == 35321.140
+X[121]:PWR == 34742.026
+X[122]:PWR == 34176.574
+X[123]:PWR == 33625.117
+X[124]:PWR == 33087.979
+X[125]:PWR == 32565.469
+X[126]:PWR == 32057.882
+X[127]:PWR == 31565.495
+X[128]:PWR == 31088.570
+X[129]:PWR == 30627.345
+X[130]:PWR == 30182.038
+X[131]:PWR == 29752.840
+X[132]:PWR == 29339.919
+X[133]:PWR == 28943.413
+X[134]:PWR == 28563.428
+X[135]:PWR == 28200.041
+X[136]:PWR == 27853.293
+X[137]:PWR == 27523.190
+X[138]:PWR == 27209.703
+X[139]:PWR == 26912.762
+X[140]:PWR == 26632.262
+X[141]:PWR == 26368.057
+X[142]:PWR == 26119.960
+X[143]:PWR == 25887.748
+X[144]:PWR == 25671.156
+X[145]:PWR == 25469.884
+X[146]:PWR == 25283.592
+X[147]:PWR == 25111.907
+X[148]:PWR == 24954.420
+X[149]:PWR == 24810.693
+X[150]:PWR == 24680.257
+X[151]:PWR == 24562.617
+X[152]:PWR == 24457.253
+X[153]:PWR == 24363.627
+X[154]:PWR == 24281.180
+X[155]:PWR == 24209.339
+X[156]:PWR == 24147.520
+X[157]:PWR == 24095.129
+X[158]:PWR == 24051.568
+X[159]:PWR == 24016.235
+X[160]:PWR == 23988.526
+X[161]:PWR == 23967.844
+X[162]:PWR == 23953.592
+X[163]:PWR == 23945.185
+X[164]:PWR == 23942.042
+X[165]:PWR == 23943.596
+X[166]:PWR == 23949.294
+X[167]:PWR == 23958.594
+X[168]:PWR == 23970.971
+X[169]:PWR == 23985.917
+X[170]:PWR == 24002.940
+X[171]:PWR == 24021.565
+X[172]:PWR == 24041.340
+X[173]:PWR == 24061.827
+X[174]:PWR == 24082.610
+X[175]:PWR == 24103.292
+X[176]:PWR == 24123.495
+X[177]:PWR == 24142.861
+X[178]:PWR == 24161.052
+X[179]:PWR == 24177.748
+X[180]:PWR == 24192.647
+X[181]:PWR == 24205.470
+X[182]:PWR == 24215.951
+X[183]:PWR == 24223.845
+X[184]:PWR == 24228.925
+X[185]:PWR == 24230.980
+X[186]:PWR == 24229.815
+X[187]:PWR == 24225.252
+X[188]:PWR == 24217.131
+X[189]:PWR == 24205.304
+X[190]:PWR == 24189.640
+X[191]:PWR == 24170.022
+X[192]:PWR == 24146.347
+X[193]:PWR == 24118.525
+X[194]:PWR == 24086.481
+X[195]:PWR == 24050.150
+X[196]:PWR == 24009.483
+X[197]:PWR == 23964.439
+X[198]:PWR == 23914.991
+X[199]:PWR == 23861.124
+X[200]:PWR == 23802.830
+X[201]:PWR == 23740.116
+X[202]:PWR == 23672.996
+X[203]:PWR == 23601.495
+X[204]:PWR == 23525.648
+X[205]:PWR == 23445.497
+X[206]:PWR == 23361.095
+X[207]:PWR == 23272.503
+X[208]:PWR == 23179.790
+X[209]:PWR == 23083.034
+X[210]:PWR == 22982.318
+X[211]:PWR == 22877.736
+X[212]:PWR == 22769.387
+X[213]:PWR == 22657.378
+X[214]:PWR == 22541.822
+X[215]:PWR == 22422.839
+X[216]:PWR == 22300.556
+X[217]:PWR == 22175.104
+X[218]:PWR == 22046.623
+X[219]:PWR == 21915.256
+X[220]:PWR == 21781.153
+X[221]:PWR == 21644.468
+X[222]:PWR == 21505.360
+X[223]:PWR == 21363.995
+X[224]:PWR == 21220.541
+X[225]:PWR == 21075.172
+X[226]:PWR == 20928.065
+X[227]:PWR == 20779.401
+X[228]:PWR == 20629.366
+X[229]:PWR == 20478.148
+X[230]:PWR == 20325.938
+X[231]:PWR == 20172.931
+X[232]:PWR == 20019.325
+X[233]:PWR == 19865.317
+X[234]:PWR == 19711.109
+X[235]:PWR == 19556.905
+X[236]:PWR == 19402.908
+X[237]:PWR == 19249.324
+X[238]:PWR == 19096.358
+X[239]:PWR == 18944.216
+X[240]:PWR == 18793.104
+X[241]:PWR == 18643.227
+X[242]:PWR == 18494.787
+X[243]:PWR == 18347.989
+X[244]:PWR == 18203.030
+X[245]:PWR == 18060.109
+X[246]:PWR == 17919.420
+X[247]:PWR == 17781.152
+X[248]:PWR == 17645.493
+X[249]:PWR == 17512.622
+X[250]:PWR == 17382.716
+X[251]:PWR == 17255.943
+X[252]:PWR == 17132.466
+X[253]:PWR == 17012.441
+X[254]:PWR == 16896.014
+X[255]:PWR == 16783.324
+X[256]:PWR == 16674.499
+X[257]:PWR == 16569.661
+X[258]:PWR == 16468.918
+X[259]:PWR == 16372.367
+X[260]:PWR == 16280.098
+X[261]:PWR == 16192.184
+X[262]:PWR == 16108.688
+X[263]:PWR == 16029.663
+X[264]:PWR == 15955.145
+X[265]:PWR == 15885.160
+X[266]:PWR == 15819.719
+X[267]:PWR == 15758.822
+X[268]:PWR == 15702.454
+X[269]:PWR == 15650.587
+X[270]:PWR == 15603.182
+X[271]:PWR == 15560.185
+X[272]:PWR == 15521.531
+X[273]:PWR == 15487.142
+X[274]:PWR == 15456.929
+X[275]:PWR == 15430.792
+X[276]:PWR == 15408.619
+X[277]:PWR == 15390.291
+X[278]:PWR == 15375.677
+X[279]:PWR == 15364.638
+X[280]:PWR == 15357.028
+X[281]:PWR == 15352.691
+X[282]:PWR == 15351.468
+X[283]:PWR == 15353.193
+X[284]:PWR == 15357.694
+X[285]:PWR == 15364.795
+X[286]:PWR == 15374.319
+X[287]:PWR == 15386.083
+X[288]:PWR == 15399.903
+X[289]:PWR == 15415.595
+X[290]:PWR == 15432.974
+X[291]:PWR == 15451.852
+X[292]:PWR == 15472.047
+X[293]:PWR == 15493.372
+X[294]:PWR == 15515.648
+X[295]:PWR == 15538.693
+X[296]:PWR == 15562.330
+X[297]:PWR == 15586.385
+X[298]:PWR == 15610.688
+X[299]:PWR == 15635.071
+X[300]:PWR == 15659.373
+X[301]:PWR == 15683.435
+X[302]:PWR == 15707.103
+X[303]:PWR == 15730.231
+X[304]:PWR == 15752.673
+X[305]:PWR == 15774.293
+X[306]:PWR == 15794.959
+X[307]:PWR == 15814.543
+X[308]:PWR == 15832.926
+X[309]:PWR == 15849.993
+X[310]:PWR == 15865.634
+X[311]:PWR == 15879.747
+X[312]:PWR == 15892.235
+X[313]:PWR == 15903.007
+X[314]:PWR == 15911.979
+X[315]:PWR == 15919.072
+X[316]:PWR == 15924.214
+X[317]:PWR == 15927.339
+X[318]:PWR == 15928.387
+X[319]:PWR == 15927.302
+X[320]:PWR == 15924.038
+X[321]:PWR == 15918.552
+X[322]:PWR == 15910.807
+X[323]:PWR == 15900.774
+X[324]:PWR == 15888.427
+X[325]:PWR == 15873.748
+X[326]:PWR == 15856.723
+X[327]:PWR == 15837.344
+X[328]:PWR == 15815.611
+X[329]:PWR == 15791.525
+X[330]:PWR == 15765.096
+X[331]:PWR == 15736.339
+X[332]:PWR == 15705.271
+X[333]:PWR == 15671.918
+X[334]:PWR == 15636.309
+X[335]:PWR == 15598.479
+X[336]:PWR == 15558.466
+X[337]:PWR == 15516.316
+X[338]:PWR == 15472.078
+X[339]:PWR == 15425.804
+X[340]:PWR == 15377.553
+X[341]:PWR == 15327.387
+X[342]:PWR == 15275.374
+X[343]:PWR == 15221.583
+X[344]:PWR == 15166.091
+X[345]:PWR == 15108.976
+X[346]:PWR == 15050.321
+X[347]:PWR == 14990.213
+X[348]:PWR == 14928.741
+X[349]:PWR == 14866.001
+X[350]:PWR == 14802.088
+X[351]:PWR == 14737.103
+X[352]:PWR == 14671.149
+X[353]:PWR == 14604.331
+X[354]:PWR == 14536.758
+X[355]:PWR == 14468.542
+X[356]:PWR == 14399.795
+X[357]:PWR == 14330.632
+X[358]:PWR == 14261.171
+X[359]:PWR == 14191.530
+X[360]:PWR == 14121.829
+X[361]:PWR == 14052.189
+X[362]:PWR == 13982.732
+X[363]:PWR == 13913.580
+X[364]:PWR == 13844.856
+X[365]:PWR == 13776.683
+X[366]:PWR == 13709.181
+X[367]:PWR == 13642.474
+X[368]:PWR == 13576.681
+X[369]:PWR == 13511.921
+X[370]:PWR == 13448.312
+X[371]:PWR == 13385.969
+X[372]:PWR == 13325.003
+X[373]:PWR == 13265.527
+X[374]:PWR == 13207.645
+X[375]:PWR == 13151.460
+X[376]:PWR == 13097.073
+X[377]:PWR == 13044.578
+X[378]:PWR == 12994.064
+X[379]:PWR == 12945.616
+X[380]:PWR == 12899.315
+X[381]:PWR == 12855.234
+X[382]:PWR == 12813.441
+X[383]:PWR == 12773.996
+X[384]:PWR == 12736.956
+X[385]:PWR == 12702.368
+X[386]:PWR == 12670.272
+X[387]:PWR == 12640.703
+X[388]:PWR == 12613.687
+X[389]:PWR == 12589.242
+X[390]:PWR == 12567.381
+X[391]:PWR == 12548.105
+X[392]:PWR == 12531.411
+X[393]:PWR == 12517.288
+X[394]:PWR == 12505.716
+X[395]:PWR == 12496.668
+X[396]:PWR == 12490.111
+X[397]:PWR == 12486.002
+X[398]:PWR == 12484.295
+X[399]:PWR == 12484.934
+X[400]:PWR == 12487.858
+X[401]:PWR == 12492.999
+X[402]:PWR == 12500.285
+X[403]:PWR == 12509.638
+X[404]:PWR == 12520.973
+X[405]:PWR == 12534.202
+X[406]:PWR == 12549.232
+X[407]:PWR == 12565.968
+X[408]:PWR == 12584.309
+X[409]:PWR == 12604.151
+X[410]:PWR == 12625.389
+X[411]:PWR == 12647.915
+X[412]:PWR == 12671.618
+X[413]:PWR == 12696.387
+X[414]:PWR == 12722.108
+X[415]:PWR == 12748.668
+X[416]:PWR == 12775.954
+X[417]:PWR == 12803.850
+X[418]:PWR == 12832.244
+X[419]:PWR == 12861.021
+X[420]:PWR == 12890.070
+X[421]:PWR == 12919.280
+X[422]:PWR == 12948.539
+X[423]:PWR == 12977.742
+X[424]:PWR == 13006.781
+X[425]:PWR == 13035.553
+X[426]:PWR == 13063.956
+X[427]:PWR == 13091.891
+X[428]:PWR == 13119.262
+X[429]:PWR == 13145.977
+X[430]:PWR == 13171.944
+X[431]:PWR == 13197.078
+X[432]:PWR == 13221.294
+X[433]:PWR == 13244.512
+X[434]:PWR == 13266.657
+X[435]:PWR == 13287.655
+X[436]:PWR == 13307.437
+X[437]:PWR == 13325.938
+X[438]:PWR == 13343.097
+X[439]:PWR == 13358.856
+X[440]:PWR == 13373.163
+X[441]:PWR == 13385.968
+X[442]:PWR == 13397.225
+X[443]:PWR == 13406.895
+X[444]:PWR == 13414.939
+X[445]:PWR == 13421.325
+X[446]:PWR == 13426.026
+X[447]:PWR == 13429.015
+X[448]:PWR == 13430.275
+X[449]:PWR == 13429.788
+X[450]:PWR == 13427.542
+X[451]:PWR == 13423.531
+X[452]:PWR == 13417.752
+X[453]:PWR == 13410.204
+X[454]:PWR == 13400.894
+X[455]:PWR == 13389.830
+X[456]:PWR == 13377.025
+X[457]:PWR == 13362.498
+X[458]:PWR == 13346.270
+X[459]:PWR == 13328.365
+X[460]:PWR == 13308.814
+X[461]:PWR == 13287.650
+X[462]:PWR == 13264.910
+X[463]:PWR == 13240.635
+X[464]:PWR == 13214.871
+X[465]:PWR == 13187.666
+X[466]:PWR == 13159.072
+X[467]:PWR == 13129.145
+X[468]:PWR == 13097.944
+X[469]:PWR == 13065.533
+X[470]:PWR == 13031.977
+X[471]:PWR == 12997.345
+X[472]:PWR == 12961.712
+X[473]:PWR == 12925.150
+X[474]:PWR == 12887.740
+X[475]:PWR == 12849.562
+X[476]:PWR == 12810.701
+X[477]:PWR == 12771.241
+X[478]:PWR == 12731.273
+X[479]:PWR == 12690.886
+X[480]:PWR == 12650.174
+X[481]:PWR == 12609.232
+X[482]:PWR == 12568.154
+X[483]:PWR == 12527.039
+X[484]:PWR == 12485.986
+X[485]:PWR == 12445.094
+X[486]:PWR == 12404.464
+X[487]:PWR == 12364.196
+X[488]:PWR == 12324.391
+X[489]:PWR == 12285.151
+X[490]:PWR == 12246.575
+X[491]:PWR == 12208.763
+X[492]:PWR == 12171.815
+X[493]:PWR == 12135.828
+X[494]:PWR == 12100.897
+X[495]:PWR == 12067.117
+X[496]:PWR == 12034.579
+X[497]:PWR == 12003.372
+X[498]:PWR == 11973.584
+X[499]:PWR == 11945.295
+X[500]:PWR == 11918.587
+X[501]:PWR == 11893.534
+X[502]:PWR == 11870.208
+X[503]:PWR == 11848.676
+X[504]:PWR == 11829.000
+X[505]:PWR == 11811.237
+X[506]:PWR == 11795.438
+X[507]:PWR == 11781.650
+X[508]:PWR == 11769.913
+X[509]:PWR == 11760.263
+X[510]:PWR == 11752.727
+X[511]:PWR == 11747.329
+X[512]:PWR == 11744.083
+X[513]:PWR == 11743.000
+X[514]:PWR == 11744.083
+X[515]:PWR == 11747.329
+X[516]:PWR == 11752.727
+X[517]:PWR == 11760.263
+X[518]:PWR == 11769.913
+X[519]:PWR == 11781.650
+X[520]:PWR == 11795.438
+X[521]:PWR == 11811.237
+X[522]:PWR == 11829.000
+X[523]:PWR == 11848.676
+X[524]:PWR == 11870.208
+X[525]:PWR == 11893.534
+X[526]:PWR == 11918.587
+X[527]:PWR == 11945.295
+X[528]:PWR == 11973.584
+X[529]:PWR == 12003.372
+X[530]:PWR == 12034.579
+X[531]:PWR == 12067.117
+X[532]:PWR == 12100.897
+X[533]:PWR == 12135.828
+X[534]:PWR == 12171.815
+X[535]:PWR == 12208.763
+X[536]:PWR == 12246.575
+X[537]:PWR == 12285.151
+X[538]:PWR == 12324.391
+X[539]:PWR == 12364.196
+X[540]:PWR == 12404.464
+X[541]:PWR == 12445.094
+X[542]:PWR == 12485.986
+X[543]:PWR == 12527.039
+X[544]:PWR == 12568.154
+X[545]:PWR == 12609.232
+X[546]:PWR == 12650.174
+X[547]:PWR == 12690.886
+X[548]:PWR == 12731.273
+X[549]:PWR == 12771.241
+X[550]:PWR == 12810.701
+X[551]:PWR == 12849.562
+X[552]:PWR == 12887.740
+X[553]:PWR == 12925.150
+X[554]:PWR == 12961.712
+X[555]:PWR == 12997.345
+X[556]:PWR == 13031.977
+X[557]:PWR == 13065.533
+X[558]:PWR == 13097.944
+X[559]:PWR == 13129.145
+X[560]:PWR == 13159.072
+X[561]:PWR == 13187.666
+X[562]:PWR == 13214.871
+X[563]:PWR == 13240.635
+X[564]:PWR == 13264.910
+X[565]:PWR == 13287.650
+X[566]:PWR == 13308.814
+X[567]:PWR == 13328.365
+X[568]:PWR == 13346.270
+X[569]:PWR == 13362.498
+X[570]:PWR == 13377.025
+X[571]:PWR == 13389.830
+X[572]:PWR == 13400.894
+X[573]:PWR == 13410.204
+X[574]:PWR == 13417.752
+X[575]:PWR == 13423.531
+X[576]:PWR == 13427.542
+X[577]:PWR == 13429.788
+X[578]:PWR == 13430.275
+X[579]:PWR == 13429.015
+X[580]:PWR == 13426.026
+X[581]:PWR == 13421.325
+X[582]:PWR == 13414.939
+X[583]:PWR == 13406.895
+X[584]:PWR == 13397.225
+X[585]:PWR == 13385.968
+X[586]:PWR == 13373.163
+X[587]:PWR == 13358.856
+X[588]:PWR == 13343.097
+X[589]:PWR == 13325.938
+X[590]:PWR == 13307.437
+X[591]:PWR == 13287.655
+X[592]:PWR == 13266.657
+X[593]:PWR == 13244.512
+X[594]:PWR == 13221.294
+X[595]:PWR == 13197.078
+X[596]:PWR == 13171.944
+X[597]:PWR == 13145.977
+X[598]:PWR == 13119.262
+X[599]:PWR == 13091.891
+X[600]:PWR == 13063.956
+X[601]:PWR == 13035.553
+X[602]:PWR == 13006.781
+X[603]:PWR == 12977.742
+X[604]:PWR == 12948.539
+X[605]:PWR == 12919.280
+X[606]:PWR == 12890.070
+X[607]:PWR == 12861.021
+X[608]:PWR == 12832.244
+X[609]:PWR == 12803.850
+X[610]:PWR == 12775.954
+X[611]:PWR == 12748.668
+X[612]:PWR == 12722.108
+X[613]:PWR == 12696.387
+X[614]:PWR == 12671.618
+X[615]:PWR == 12647.915
+X[616]:PWR == 12625.389
+X[617]:PWR == 12604.151
+X[618]:PWR == 12584.309
+X[619]:PWR == 12565.968
+X[620]:PWR == 12549.232
+X[621]:PWR == 12534.202
+X[622]:PWR == 12520.973
+X[623]:PWR == 12509.638
+X[624]:PWR == 12500.285
+X[625]:PWR == 12492.999
+X[626]:PWR == 12487.858
+X[627]:PWR == 12484.934
+X[628]:PWR == 12484.295
+X[629]:PWR == 12486.002
+X[630]:PWR == 12490.111
+X[631]:PWR == 12496.668
+X[632]:PWR == 12505.716
+X[633]:PWR == 12517.288
+X[634]:PWR == 12531.411
+X[635]:PWR == 12548.105
+X[636]:PWR == 12567.381
+X[637]:PWR == 12589.242
+X[638]:PWR == 12613.687
+X[639]:PWR == 12640.703
+X[640]:PWR == 12670.272
+X[641]:PWR == 12702.368
+X[642]:PWR == 12736.956
+X[643]:PWR == 12773.996
+X[644]:PWR == 12813.441
+X[645]:PWR == 12855.234
+X[646]:PWR == 12899.315
+X[647]:PWR == 12945.616
+X[648]:PWR == 12994.064
+X[649]:PWR == 13044.578
+X[650]:PWR == 13097.073
+X[651]:PWR == 13151.460
+X[652]:PWR == 13207.645
+X[653]:PWR == 13265.527
+X[654]:PWR == 13325.003
+X[655]:PWR == 13385.969
+X[656]:PWR == 13448.312
+X[657]:PWR == 13511.921
+X[658]:PWR == 13576.681
+X[659]:PWR == 13642.474
+X[660]:PWR == 13709.181
+X[661]:PWR == 13776.683
+X[662]:PWR == 13844.856
+X[663]:PWR == 13913.580
+X[664]:PWR == 13982.732
+X[665]:PWR == 14052.189
+X[666]:PWR == 14121.829
+X[667]:PWR == 14191.530
+X[668]:PWR == 14261.171
+X[669]:PWR == 14330.632
+X[670]:PWR == 14399.795
+X[671]:PWR == 14468.542
+X[672]:PWR == 14536.758
+X[673]:PWR == 14604.331
+X[674]:PWR == 14671.149
+X[675]:PWR == 14737.103
+X[676]:PWR == 14802.088
+X[677]:PWR == 14866.001
+X[678]:PWR == 14928.741
+X[679]:PWR == 14990.213
+X[680]:PWR == 15050.321
+X[681]:PWR == 15108.976
+X[682]:PWR == 15166.091
+X[683]:PWR == 15221.583
+X[684]:PWR == 15275.374
+X[685]:PWR == 15327.387
+X[686]:PWR == 15377.553
+X[687]:PWR == 15425.804
+X[688]:PWR == 15472.078
+X[689]:PWR == 15516.316
+X[690]:PWR == 15558.466
+X[691]:PWR == 15598.479
+X[692]:PWR == 15636.309
+X[693]:PWR == 15671.918
+X[694]:PWR == 15705.271
+X[695]:PWR == 15736.339
+X[696]:PWR == 15765.096
+X[697]:PWR == 15791.525
+X[698]:PWR == 15815.611
+X[699]:PWR == 15837.344
+X[700]:PWR == 15856.723
+X[701]:PWR == 15873.748
+X[702]:PWR == 15888.427
+X[703]:PWR == 15900.774
+X[704]:PWR == 15910.807
+X[705]:PWR == 15918.552
+X[706]:PWR == 15924.038
+X[707]:PWR == 15927.302
+X[708]:PWR == 15928.387
+X[709]:PWR == 15927.339
+X[710]:PWR == 15924.214
+X[711]:PWR == 15919.072
+X[712]:PWR == 15911.979
+X[713]:PWR == 15903.007
+X[714]:PWR == 15892.235
+X[715]:PWR == 15879.747
+X[716]:PWR == 15865.634
+X[717]:PWR == 15849.993
+X[718]:PWR == 15832.926
+X[719]:PWR == 15814.543
+X[720]:PWR == 15794.959
+X[721]:PWR == 15774.293
+X[722]:PWR == 15752.673
+X[723]:PWR == 15730.231
+X[724]:PWR == 15707.103
+X[725]:PWR == 15683.435
+X[726]:PWR == 15659.373
+X[727]:PWR == 15635.071
+X[728]:PWR == 15610.688
+X[729]:PWR == 15586.385
+X[730]:PWR == 15562.330
+X[731]:PWR == 15538.693
+X[732]:PWR == 15515.648
+X[733]:PWR == 15493.372
+X[734]:PWR == 15472.047
+X[735]:PWR == 15451.852
+X[736]:PWR == 15432.974
+X[737]:PWR == 15415.595
+X[738]:PWR == 15399.903
+X[739]:PWR == 15386.083
+X[740]:PWR == 15374.319
+X[741]:PWR == 15364.795
+X[742]:PWR == 15357.694
+X[743]:PWR == 15353.193
+X[744]:PWR == 15351.468
+X[745]:PWR == 15352.691
+X[746]:PWR == 15357.028
+X[747]:PWR == 15364.638
+X[748]:PWR == 15375.677
+X[749]:PWR == 15390.291
+X[750]:PWR == 15408.619
+X[751]:PWR == 15430.792
+X[752]:PWR == 15456.929
+X[753]:PWR == 15487.142
+X[754]:PWR == 15521.531
+X[755]:PWR == 15560.185
+X[756]:PWR == 15603.182
+X[757]:PWR == 15650.587
+X[758]:PWR == 15702.454
+X[759]:PWR == 15758.822
+X[760]:PWR == 15819.719
+X[761]:PWR == 15885.160
+X[762]:PWR == 15955.145
+X[763]:PWR == 16029.663
+X[764]:PWR == 16108.688
+X[765]:PWR == 16192.184
+X[766]:PWR == 16280.098
+X[767]:PWR == 16372.367
+X[768]:PWR == 16468.918
+X[769]:PWR == 16569.661
+X[770]:PWR == 16674.499
+X[771]:PWR == 16783.324
+X[772]:PWR == 16896.014
+X[773]:PWR == 17012.441
+X[774]:PWR == 17132.466
+X[775]:PWR == 17255.943
+X[776]:PWR == 17382.716
+X[777]:PWR == 17512.622
+X[778]:PWR == 17645.493
+X[779]:PWR == 17781.152
+X[780]:PWR == 17919.420
+X[781]:PWR == 18060.109
+X[782]:PWR == 18203.030
+X[783]:PWR == 18347.989
+X[784]:PWR == 18494.787
+X[785]:PWR == 18643.227
+X[786]:PWR == 18793.104
+X[787]:PWR == 18944.216
+X[788]:PWR == 19096.358
+X[789]:PWR == 19249.324
+X[790]:PWR == 19402.908
+X[791]:PWR == 19556.905
+X[792]:PWR == 19711.109
+X[793]:PWR == 19865.317
+X[794]:PWR == 20019.325
+X[795]:PWR == 20172.931
+X[796]:PWR == 20325.938
+X[797]:PWR == 20478.148
+X[798]:PWR == 20629.366
+X[799]:PWR == 20779.401
+X[800]:PWR == 20928.065
+X[801]:PWR == 21075.172
+X[802]:PWR == 21220.541
+X[803]:PWR == 21363.995
+X[804]:PWR == 21505.360
+X[805]:PWR == 21644.468
+X[806]:PWR == 21781.153
+X[807]:PWR == 21915.256
+X[808]:PWR == 22046.623
+X[809]:PWR == 22175.104
+X[810]:PWR == 22300.556
+X[811]:PWR == 22422.839
+X[812]:PWR == 22541.822
+X[813]:PWR == 22657.378
+X[814]:PWR == 22769.387
+X[815]:PWR == 22877.736
+X[816]:PWR == 22982.318
+X[817]:PWR == 23083.034
+X[818]:PWR == 23179.790
+X[819]:PWR == 23272.503
+X[820]:PWR == 23361.095
+X[821]:PWR == 23445.497
+X[822]:PWR == 23525.648
+X[823]:PWR == 23601.495
+X[824]:PWR == 23672.996
+X[825]:PWR == 23740.116
+X[826]:PWR == 23802.830
+X[827]:PWR == 23861.124
+X[828]:PWR == 23914.991
+X[829]:PWR == 23964.439
+X[830]:PWR == 24009.483
+X[831]:PWR == 24050.150
+X[832]:PWR == 24086.481
+X[833]:PWR == 24118.525
+X[834]:PWR == 24146.347
+X[835]:PWR == 24170.022
+X[836]:PWR == 24189.640
+X[837]:PWR == 24205.304
+X[838]:PWR == 24217.131
+X[839]:PWR == 24225.252
+X[840]:PWR == 24229.815
+X[841]:PWR == 24230.980
+X[842]:PWR == 24228.925
+X[843]:PWR == 24223.845
+X[844]:PWR == 24215.951
+X[845]:PWR == 24205.470
+X[846]:PWR == 24192.647
+X[847]:PWR == 24177.748
+X[848]:PWR == 24161.052
+X[849]:PWR == 24142.861
+X[850]:PWR == 24123.495
+X[851]:PWR == 24103.292
+X[852]:PWR == 24082.610
+X[853]:PWR == 24061.827
+X[854]:PWR == 24041.340
+X[855]:PWR == 24021.565
+X[856]:PWR == 24002.940
+X[857]:PWR == 23985.917
+X[858]:PWR == 23970.971
+X[859]:PWR == 23958.594
+X[860]:PWR == 23949.294
+X[861]:PWR == 23943.596
+X[862]:PWR == 23942.042
+X[863]:PWR == 23945.185
+X[864]:PWR == 23953.592
+X[865]:PWR == 23967.844
+X[866]:PWR == 23988.526
+X[867]:PWR == 24016.235
+X[868]:PWR == 24051.568
+X[869]:PWR == 24095.129
+X[870]:PWR == 24147.520
+X[871]:PWR == 24209.339
+X[872]:PWR == 24281.180
+X[873]:PWR == 24363.627
+X[874]:PWR == 24457.253
+X[875]:PWR == 24562.617
+X[876]:PWR == 24680.257
+X[877]:PWR == 24810.693
+X[878]:PWR == 24954.420
+X[879]:PWR == 25111.907
+X[880]:PWR == 25283.592
+X[881]:PWR == 25469.884
+X[882]:PWR == 25671.156
+X[883]:PWR == 25887.748
+X[884]:PWR == 26119.960
+X[885]:PWR == 26368.057
+X[886]:PWR == 26632.262
+X[887]:PWR == 26912.762
+X[888]:PWR == 27209.703
+X[889]:PWR == 27523.190
+X[890]:PWR == 27853.293
+X[891]:PWR == 28200.041
+X[892]:PWR == 28563.428
+X[893]:PWR == 28943.413
+X[894]:PWR == 29339.919
+X[895]:PWR == 29752.840
+X[896]:PWR == 30182.038
+X[897]:PWR == 30627.345
+X[898]:PWR == 31088.570
+X[899]:PWR == 31565.495
+X[900]:PWR == 32057.882
+X[901]:PWR == 32565.469
+X[902]:PWR == 33087.979
+X[903]:PWR == 33625.117
+X[904]:PWR == 34176.574
+X[905]:PWR == 34742.026
+X[906]:PWR == 35321.140
+X[907]:PWR == 35913.571
+X[908]:PWR == 36518.967
+X[909]:PWR == 37136.967
+X[910]:PWR == 37767.206
+X[911]:PWR == 38409.312
+X[912]:PWR == 39062.911
+X[913]:PWR == 39727.624
+X[914]:PWR == 40403.070
+X[915]:PWR == 41088.867
+X[916]:PWR == 41784.631
+X[917]:PWR == 42489.980
+X[918]:PWR == 43204.528
+X[919]:PWR == 43927.893
+X[920]:PWR == 44659.692
+X[921]:PWR == 45399.544
+X[922]:PWR == 46147.067
+X[923]:PWR == 46901.884
+X[924]:PWR == 47663.617
+X[925]:PWR == 48431.892
+X[926]:PWR == 49206.336
+X[927]:PWR == 49986.579
+X[928]:PWR == 50772.251
+X[929]:PWR == 51562.986
+X[930]:PWR == 52358.422
+X[931]:PWR == 53158.196
+X[932]:PWR == 53961.950
+X[933]:PWR == 54769.328
+X[934]:PWR == 55579.975
+X[935]:PWR == 56393.541
+X[936]:PWR == 57209.676
+X[937]:PWR == 58028.034
+X[938]:PWR == 58848.271
+X[939]:PWR == 59670.047
+X[940]:PWR == 60493.021
+X[941]:PWR == 61316.858
+X[942]:PWR == 62141.224
+X[943]:PWR == 62965.788
+X[944]:PWR == 63790.220
+X[945]:PWR == 64614.194
+X[946]:PWR == 65437.387
+X[947]:PWR == 66259.476
+X[948]:PWR == 67080.144
+X[949]:PWR == 67899.074
+X[950]:PWR == 68715.951
+X[951]:PWR == 69530.466
+X[952]:PWR == 70342.308
+X[953]:PWR == 71151.172
+X[954]:PWR == 71956.755
+X[955]:PWR == 72758.756
+X[956]:PWR == 73556.876
+X[957]:PWR == 74350.820
+X[958]:PWR == 75140.295
+X[959]:PWR == 75925.012
+X[960]:PWR == 76704.682
+X[961]:PWR == 77479.022
+X[962]:PWR == 78247.749
+X[963]:PWR == 79010.586
+X[964]:PWR == 79767.257
+X[965]:PWR == 80517.489
+X[966]:PWR == 81261.011
+X[967]:PWR == 81997.559
+X[968]:PWR == 82726.868
+X[969]:PWR == 83448.678
+X[970]:PWR == 84162.732
+X[971]:PWR == 84868.776
+X[972]:PWR == 85566.559
+X[973]:PWR == 86255.836
+X[974]:PWR == 86936.362
+X[975]:PWR == 87607.896
+X[976]:PWR == 88270.203
+X[977]:PWR == 88923.050
+X[978]:PWR == 89566.206
+X[979]:PWR == 90199.447
+X[980]:PWR == 90822.551
+X[981]:PWR == 91435.299
+X[982]:PWR == 92037.477
+X[983]:PWR == 92628.876
+X[984]:PWR == 93209.288
+X[985]:PWR == 93778.511
+X[986]:PWR == 94336.348
+X[987]:PWR == 94882.603
+X[988]:PWR == 95417.088
+X[989]:PWR == 95939.616
+X[990]:PWR == 96450.007
+X[991]:PWR == 96948.082
+X[992]:PWR == 97433.670
+X[993]:PWR == 97906.602
+X[994]:PWR == 98366.714
+X[995]:PWR == 98813.847
+X[996]:PWR == 99247.847
+X[997]:PWR == 99668.563
+X[998]:PWR == 100075.850
+X[999]:PWR == 100469.567
+X[1000]:PWR == 100849.579
+X[1001]:PWR == 101215.753
+X[1002]:PWR == 101567.964
+X[1003]:PWR == 101906.090
+X[1004]:PWR == 102230.015
+X[1005]:PWR == 102539.627
+X[1006]:PWR == 102834.819
+X[1007]:PWR == 103115.489
+X[1008]:PWR == 103381.541
+X[1009]:PWR == 103632.883
+X[1010]:PWR == 103869.429
+X[1011]:PWR == 104091.097
+X[1012]:PWR == 104297.810
+X[1013]:PWR == 104489.498
+X[1014]:PWR == 104666.095
+X[1015]:PWR == 104827.540
+X[1016]:PWR == 104973.777
+X[1017]:PWR == 105104.755
+X[1018]:PWR == 105220.431
+X[1019]:PWR == 105320.764
+X[1020]:PWR == 105405.720
+X[1021]:PWR == 105475.269
+X[1022]:PWR == 105529.387
+X[1023]:PWR == 105568.057
+X[1024]:PWR == 105591.263
